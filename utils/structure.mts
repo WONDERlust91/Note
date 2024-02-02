@@ -11,7 +11,14 @@ function generateStructure(directory: string) {
   const sortedFiles = files.sort((a, b) => {
     const aCreationTime = fs.statSync(path.join(directory, a)).birthtime;
     const bCreationTime = fs.statSync(path.join(directory, b)).birthtime;
-    return bCreationTime.getTime() - aCreationTime.getTime();
+
+    if (aCreationTime.getTime() !== bCreationTime.getTime()) {
+      // Sort by descending creation time
+      return bCreationTime.getTime() - aCreationTime.getTime();
+    } else {
+      // If creation times are the same, sort by descending name
+      return b.localeCompare(a);
+    }
   });
 
   // Map to the desired structure
