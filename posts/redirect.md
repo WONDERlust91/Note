@@ -6,5 +6,5 @@
   const router = useRouter();
   const latestRedirectLink = data.theme.value.nav.find(item => item.text.toLowerCase() === redirectDir).link;
   
-  router.go(latestWordLink);
+  router.go(latestRedirectLink);
 </script>
