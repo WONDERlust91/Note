@@ -7,18 +7,9 @@ function generateStructure(directory: string) {
   // Read the directory
   const files = fs.readdirSync(directory);
 
-  // Get creation time for each file and sort in descending order
+  // Sort files in descending order by filename
   const sortedFiles = files.sort((a, b) => {
-    const aCreationTime = fs.statSync(path.join(directory, a)).birthtime;
-    const bCreationTime = fs.statSync(path.join(directory, b)).birthtime;
-
-    if (aCreationTime.getTime() !== bCreationTime.getTime()) {
-      // Sort by descending creation time
-      return bCreationTime.getTime() - aCreationTime.getTime();
-    } else {
-      // If creation times are the same, sort by descending name
-      return b.localeCompare(a);
-    }
+    return b.localeCompare(a);
   });
 
   // Map to the desired structure
