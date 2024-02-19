@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 import { scanDirectories } from "../utils/structure.mts";
-import { directories,srcDir } from "../utils/config.mts";
+import { directories, srcDir } from "../utils/config.mts";
 
 const structure = scanDirectories(directories);
 
@@ -11,6 +11,10 @@ export default defineConfig({
   srcDir,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: "local",
+    },
+
     nav: [
       ...structure.nav,
       { text: "Summary", link: "/summary/lexical_relationships" },
