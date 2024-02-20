@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@types/node": "^20.11.19",
-    "vitepress": "1.0.0-rc.42"
+    "vitepress": "1.0.0-rc.44"
   },
   "scripts": {
     "dev": "vitepress dev",
