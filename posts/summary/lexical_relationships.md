@@ -78,7 +78,7 @@
 
   subsume v. 吸收，归入
 
-- precedent n. 先例 adj. 领先
+- precedent n. 先例 adj. 先前的（时间、顺序或重要性上）
 
   president n. 总统
 
@@ -632,7 +632,9 @@
 
   dramatically adv. 戏剧性地；惊人地；极大地
 
-- concur v. 同意；同时发生
+- conquer （发音重音在前）v. 征服
+
+  concur （发音重音在后）v. 同意；同时发生
 
   incur v. 招致；遭受的不好结果
 
@@ -701,6 +703,18 @@
   integration n. 整合的过程或行为；积分的解；神经系统的协调
 
   integrity n. 诚实正直；完整性
+
+- wary adj. 小心的；提防的
+
+  weary adj. 疲倦的；厌倦的 v. 使疲倦；使厌倦
+
+- ensure v. 确保
+
+  insure v. 投保 (insure 很少用了)
+
+  insurance n. 保险
+
+  insurer n. 保险公司
 
 ## Synonyms
 
@@ -1467,3 +1481,23 @@
 - cool adj. 酷的
 
   lame adj. 蹩脚的；瘸的
+
+- comedy n. 喜剧
+
+  tragedy n. 悲剧
+
+- optimism n. 乐观主义
+
+  pessimism n. 悲观主义
+
+- offensive n. 进攻 adj. 有攻击性的；冒犯的
+
+  offense n. 冒犯；非法行为；攻击行为
+
+  offend v. 冒犯；犯罪
+
+  defensive n. 防守 adj. 防御性的
+
+  defense n. 防御；抗辩（法律）
+
+  defend v. 保卫

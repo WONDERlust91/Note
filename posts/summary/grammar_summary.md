@@ -27,7 +27,21 @@
 
 - 普通连词：形如`句子, and 句子`，连词用于并列两句话：如 and or but so，而 however thus therefore furthermore 都是副词，不可用于逗号后并列两句话。
 
-- 关系连词（非问句，问句中叫关系副词）：when/if/who/how/althought/while 不能单独引导一句话
+- 关系连词（非问句，问句中叫关系副词）：when/if/who/how/although/though/while/yet
+
+- 时间词可以当作关系连词
+
+  I finished my homework **(in) the day** you came to our school.
+
+1. however 和 but 不可互换，but 是连词，连接两个句子，however 是副词，后面不能跟完整句子
+
+2. but 和 although/though/while 都是连词表转折，但重点不同
+
+   A, but B. 该句中 B 是重点
+
+   A, although B. 该句中 A 是重点
+
+3. A, although B. = Although B, A.
 
 ### 介词
 
@@ -169,7 +183,7 @@ As
 
   I regard you as important.
 
-- 连词：
+- 连词：后接完整句子
 
   - 当/随着
 
@@ -187,30 +201,34 @@ As
 
   as to = in terms of 介词
 
-as ... as 中间可以是任何成分，视句子结构而定。
+- as ... as 中间可以是任何成分，视句子结构而定。
 
-翻译：第一个 as 忽略，第二个 as 译为“正如”
+  翻译：第一个 as 忽略，第二个 as 译为“正如”
 
-This city is as beautiful as Shanghai.
-This city grows as beautifully as Shanghai does.
+  This city is as beautiful as Shanghai.
+  This city grows as beautifully as Shanghai does.
 
-as ... as 写作易错点：
+  as ... as 写作易错点：
 
-错误：You play soccer as beautiful as he dose.
+  错误：You play soccer as beautiful as he dose.
 
-注意 beautiful 词性是形容词，不能修饰动词，需要换成副词。
+  注意 beautiful 词性是形容词，不能修饰动词，需要换成副词。
 
-正确：You play soccer as beautifully as he dose.
+  正确：You play soccer as beautifully as he dose.
 
-yet 状语从句套 while 状语从句的情况（本质就是英语的完整句子可以无限套娃）
+yet
 
-句子 1, yet while 分句, 主句
+1. 句首的 yet 等于 but，表转折
 
-等价于
+   yet 状语从句套 while 状语从句的情况（本质就是英语的完整句子可以无限套娃）
 
-句子 1, yet 句子 2（句子 2 = while 分句, 主句）
+   句子 1, yet while 分句, 主句
 
-句子 2 以主句为主，因此，“句子 1”与“主句”是转折关系，“分句”与“主句”亦是转折关系，但“句子 1”与“分句”无关系，因为两个转折可以从不同的方面进行。
+   等价于
+
+   句子 1, yet 句子 2（句子 2 = while 分句, 主句）
+
+   句子 2 以主句为主，因此，“句子 1”与“主句”是转折关系，“分句”与“主句”亦是转折关系，但“句子 1”与“分句”无关系，因为两个转折可以从不同的方面进行。
 
 ### 定语从句
 
@@ -508,9 +526,13 @@ This book is among many books. 倒装 Among many books is this book.
 
 - Among 开头的倒装
 
-  Among many students in school are you who are from China and are tall and smart.
+  1. Among many students in school are you who are from China and are tall and smart.
 
-  正常语序：You who are from China and are tall and smart are among many students in school.
+     正常语序：You who are from China and are tall and smart are among many students in school.
+
+  2. Among many students who are in China are you. (第二个 are 是因为 you 跟前面无关)
+
+     正常语序：You are among many students who are in China.
 
 - 否定副词打头 后面句子半倒装
 
@@ -602,7 +624,7 @@ There are some reasons that lead to this situation in the picture.
 
 ### 现在完成进行时
 
-have been doing 从过去到现在一直做某事
+have been doing 从过去到现在一直做某事，完美翻译就是“一直”
 
 ## 其他
 
@@ -638,7 +660,7 @@ have been doing 从过去到现在一直做某事
 
   so much as = even 甚至
 
-- call A B 称呼 A 为 B，中间无介词，遇到要注意将 A 和 B 分开。
+- call A B 称呼 A 为 B，中间无介词，遇到要注意将 A 和 B 分开。B 可能是 n./adj./不定式 等。
 
   类似的还有
 
@@ -941,6 +963,36 @@ have been doing 从过去到现在一直做某事
   介词短语修饰主句中的主语
 
   With no facilities like that school, my school is also good.
+
+- 某某感 在英文中使用 sense of ... 不用 feeling/thought 等
+
+  例如：安全感 sense of security
+
+- To do sth., 主句. 译为 为了做某事，怎么怎么样。实质上句首的 To 前 省略了 In order
+
+- say 后大概率跟句子，可能会跟一个名词。think 后 100%跟句子，因为跟名字时会用 think of。
+
+  say n.
+
+  say (that) 句子
+
+  think (that) 句子
+
+  think of n.
+
+- wary adj. 小心的；提防的
+
+  be wary of 小心某事
+
+  be aware of 注意某事
+
+  be capable of 有能力做某事
+
+- used to do 译为过去常常做（现在不了），其中 used 作为动词过去式 to 为不定式（但还有一种情况是两者没有关系，used 跟着前面的意群 to 是动词不定式）
+
+  be used to doing 译为习惯于做，used 作为形容词 to 为介词
+
+  be used to do 译为被用来做，used 作为动词过去分词，to 为不定式
 
 - 常见简单词组或词汇，但理解易错
 
