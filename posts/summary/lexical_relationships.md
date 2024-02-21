@@ -1394,6 +1394,20 @@
 
   ceiling n. 屋顶（室内吊顶）
 
+- 表示“导致”
+
+  lead to
+
+  result in
+
+  bring about
+
+  cause
+
+  induce
+
+  spur
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的

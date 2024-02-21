@@ -570,9 +570,25 @@ This book is among many books. 倒装 Among many books is this book.
 
 ### 虚拟语气中的省略与倒装
 
-Had sth. happend, I would do this. = If sth. had happend, I would do this.
+1. had
 
-Were I you, I would do this. = If I were you, I would do this.
+   Had 打头的陈述句分句，是虚拟语气 had 倒装省略 if，可以直接把 had 当成 if 来理解
+
+   If you had become happy, you would do this.
+
+   等于
+
+   Had you become happy, you would do this.
+
+   等于
+
+   You would do this had you become happy.
+
+   Had sth. happend, I would do this. = If sth. had happend, I would do this.
+
+2. were
+
+   Were I you, I would do this. = If I were you, I would do this.
 
 ### With/Without
 
@@ -673,6 +689,8 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   find A B
 
   make A B
+
+  declaire A B
 
 - 表达“提供给某人某物”
 
@@ -987,6 +1005,12 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   be aware of 注意某事
 
   be capable of 有能力做某事
+
+- be the case 这个情况
+
+  would otherwise have been the case. 不是这样的情况。（前面有个 what 常常被省略）
+
+  Sth. happend. They do sth. fewer than (what) would otherwise have been the case. 一些事情发生了，他们做某件事更少了，比不是这样的情况下。
 
 - used to do 译为过去常常做（现在不了），其中 used 作为动词过去式 to 为不定式（但还有一种情况是两者没有关系，used 跟着前面的意群 to 是动词不定式）
 
