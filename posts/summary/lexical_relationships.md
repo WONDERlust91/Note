@@ -1,6 +1,6 @@
 # Lexical Relationships
 
-## Homophones
+## Homonyms
 
 - conservation n. 节约，保护。
 
@@ -716,6 +716,12 @@
 
   insurer n. 保险公司
 
+- statute n. 法令；规章
+
+  status n. 地位；状态
+
+  statue n. 雕塑
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1407,6 +1413,44 @@
   induce
 
   spur
+
+- 法律词汇“罪行”、“指控”、“律师”、“法官”、“原被告”相关
+
+  accuse v. 指责（不一定是法律上）
+
+  charge n. v. 指控（法律上，但不一定有罪）
+
+  sentence n. 刑罚（被判决有罪）
+
+  jail sentence n. 入狱的刑罚
+
+  death sentence n. 死刑
+
+  attorney n. 律师（总称，包含下面两者）
+
+  prosecutor n. 检查官（律师，但代表国家或政府，起诉某人）
+
+  lawyer n. 律师（代表个人）
+
+  justice n. 美国最高法院法官（共有 9 人，首席为 chief justice）
+
+  judge n. 普通法官
+
+  defendant n. 被告
+
+  plaintiff n. 原告
+
+- 表示“强调”
+
+  underscore v. 强调
+
+  emphasize
+
+  highlight
+
+  underline n. 下划线 v. 强调
+
+  underlie v. 奠定
 
 ## Antonyms
 

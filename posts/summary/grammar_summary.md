@@ -173,7 +173,7 @@ As
 
   As a student, you should ...
 
-  regard A as B
+  regard A as B (n./adj.)
 
   see A as B
 
@@ -391,6 +391,16 @@ It can make me happy.
 ### 形式宾语
 
 make/leave A(n.) B(v./adj./prep./n.)
+
+- leave + 地点 表示离开某地
+
+  其他情况 leave = make 表示留下或使得
+
+  当 A 后面有个很长的定语从句时，可能会把 B 放在 A 前
+
+  This book leave you happy.
+
+  This book leave happy you who are from China and playing soccer in your school.
 
 I can make you play soccer.
 
@@ -689,6 +699,8 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   find A B
 
   make A B
+
+  leave A B
 
   declaire A B
 
@@ -1033,6 +1045,12 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
      - Given you are a boy, you can do this.
 
      - Given your gender, you can do this.
+
+     - Given the weather today, I don't want to go to school.
+
+       Given the weather today 从句相当于副词 可后置
+
+       I don't want to go to school given the weather today.
 
   6. in charge 负责、管理（当领导）
 
