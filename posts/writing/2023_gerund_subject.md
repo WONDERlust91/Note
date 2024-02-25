@@ -10,6 +10,8 @@ Ving + 谓语（第三人称单数） + 宾语
 
   Learning in our library makes us happy.
 
+  扩展：Learning quietly in our library which is in this campus makes us happy.
+
 - Thinking that producing computers from China when the economy is good is effective makes me happy.
 
   整体是两个动名词做主语的句子嵌套
