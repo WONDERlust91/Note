@@ -722,6 +722,18 @@
 
   statue n. 雕塑
 
+- underlie v. 奠定
+
+  underline n. 下划线 v. 强调
+
+  undermine v. 破坏（根基）；削弱
+
+  underscore v. 强调
+
+- scrape v. 刮掉；削去；挤过；抓取数据（注意该单词发音与下面不同）
+
+  scrap v. 报废、废弃；争执 n. 废料、碎屑；小争执
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1451,6 +1463,42 @@
   underline n. 下划线 v. 强调
 
   underlie v. 奠定
+
+- “卫生”相关
+
+  hygiene n. 卫生
+
+  cleanliness n. 卫生；清洁度
+
+  cleanse v. 彻底清洁（皮肤）；使净化、排毒
+
+  wash v. n. 洗涤
+
+  rinse v. n. 洗涮、冲洗、漱
+
+  lanundry n. 要被洗的衣服
+
+  baths n. 澡堂、浴场（发音和 bath 有一些区别）
+
+  bath(bathe) v. 在浴缸里泡澡（有两个发音）
+
+  shower n. 阵雨；淋浴
+
+- “染色”
+
+  tint v. 为...轻微染色；给...略微着色
+
+  dye vt. 染色
+
+- “考古”相关
+
+  excavate v. 挖掘（古物）
+
+  archaeology n. 考古学
+
+  archaeologist n. 考古学家
+
+  anthropology n. 人类学（人的社会、文化行为）
 
 ## Antonyms
 

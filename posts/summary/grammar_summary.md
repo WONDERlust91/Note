@@ -216,6 +216,16 @@ As
 
   正确：You play soccer as beautifully as he dose.
 
+  常见 as ... as 翻译:
+
+  as long as 只要
+
+  as far as/so far as 至于
+
+  as soon as 尽快
+
+  as early as 早在
+
 yet
 
 1. 句首的 yet 等于 but，表转折
