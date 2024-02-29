@@ -13,6 +13,18 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: "local",
+      options: {
+        miniSearch: {
+          options: {
+            // 默认使用空格与标点符号分词，这里仅使用空格分词
+            tokenize: (text, _fieldName) => text.split(/\s+/),
+          },
+          searchOptions: {
+            // 禁用模糊搜索
+            fuzzy: false,
+          },
+        },
+      },
     },
 
     nav: [
