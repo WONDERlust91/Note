@@ -544,7 +544,27 @@ I am in school. 倒装 In school am I.
 
 This book is among many books. 倒装 Among many books is this book.
 
-- Among 开头的倒装
+#### 主谓宾 4 种形式
+
+I love you. (v.)
+
+I am a boy. (be + n.)
+
+I am happy. (be + adj.)
+
+I am in school. (be + prep.)
+
+#### 为什么倒装
+
+1. 宾语相对主语更加重要
+
+2. 主语加定语从句太长，谓语宾语太短
+
+#### 完全倒装
+
+介词短语/形容词开头，两者不能作主语，且 be 动词单三是根据后面真正的主语
+
+- Among 开头的倒装（介词）
 
   1. Among many students in school are you who are from China and are tall and smart.
 
@@ -554,13 +574,55 @@ This book is among many books. 倒装 Among many books is this book.
 
      正常语序：You are among many students who are in China.
 
-- 否定副词打头 后面句子半倒装
+  3. Among others is he.
+
+  4. Among others are many students.
+
+- 形容词开头的倒装
+
+  1. Smart is this student who has many computers and books.
+
+     正常语序：This student who has many computers and books is smart.
+
+  2. More important in my books are my pages.
+
+#### 部分倒装
+
+- 否定副词打头，主谓倒装，谓语有助动词的，仅主语和助动词倒装
 
   即 否定副词 谓语 主语 宾语
 
   I have rarely finished this. 半倒装 Rarely have I finished this.
 
-  否定副词：only/rarely/seldom/hardly/nor/merely/barely/not only/neither/scarcely
+  否定副词：(only/rarely/seldom/little/hardly/merely/barely/scarcely/nowhere/never/not only) = not
+
+- so/neither/nor 倒装（表示“也”）
+
+  I can learn math in our school with a computer.
+
+  其他同学几年前也可以
+
+  So can other students several years ago. (情态动词没有过去式)
+
+- As 倒装（表示“尽管”）
+
+  As he is a child, he speaks fluent English.
+
+  倒装：A child as he is, he speaks fluent English.
+
+  As she is important, she can not do that.
+
+  倒装：Important as she is, she can not do that.
+
+  As he has a book, he did not read it.
+
+  倒装：A book as he has, he did not read it.
+
+- As 倒装（表示“正如”）
+
+  As be sb. 正如某人一样
+
+  正常语序：As sb. be
 
 - more than 倒装
 
@@ -575,18 +637,6 @@ This book is among many books. 倒装 Among many books is this book.
   "..." he says 常会倒装为 "..." says he
 
   "..." the reply came 常倒装为 "..." came the reply
-
-- 形容词和介词短语开头（形容词和介词短语不可能作主语，故它们开头时是倒装，这样倒装是为了防止主语过长）
-
-  Smart is this student who has many computers and books.
-
-  正常语序
-
-  This student who has many computers and books is smart.
-
-- As be sb. 正如某人一样
-
-  正常语序：As sb. be
 
 ### 虚拟语气中的省略与倒装
 
@@ -1033,6 +1083,10 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   would otherwise have been the case. 不是这样的情况。（前面有个 what 常常被省略）
 
   Sth. happend. They do sth. fewer than (what) would otherwise have been the case. 一些事情发生了，他们做某件事更少了，比不是这样的情况下。
+
+- only if 几乎等于 if。if 译为如果，不排除其他情况；only if 译为除非（仅仅如果），only if 排除了其他情况
+
+  if only 译为要是这样就好了
 
 - used to do 译为过去常常做（现在不了），其中 used 作为动词过去式 to 为不定式（但还有一种情况是两者没有关系，used 跟着前面的意群 to 是动词不定式）
 

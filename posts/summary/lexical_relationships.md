@@ -1500,6 +1500,14 @@
 
   anthropology n. 人类学（人的社会、文化行为）
 
+- “论文”相关
+
+  thesis n. 论点；毕业论文
+
+  papar n. 论文
+
+  essay n. 小论文
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的
