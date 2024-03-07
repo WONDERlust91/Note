@@ -2,9 +2,19 @@
 
 ## Homonyms
 
-- conservation n. 节约，保护。
+- conservation n. 节约，保护（保护的意思较少见，环保实际指节约资源）
+
+  conserve v. 节约，保护（保护免于伤害或减少） n. 果酱
+
+  conservative adj. 保守的；右倾的
 
   conversation n. 会话。
+
+  preserve v. 保持；维持 n. 果酱；保留地
+
+  preservation n. 保存
+
+  preservative n. 防腐剂 adj. 保留的
 
 <!-- more -->
 
@@ -734,6 +744,18 @@
 
   scrap v. 报废、废弃；争执 n. 废料、碎屑；小争执
 
+- means n. 方法 = way 这个单词天生有 s，单复同形，所以 a means of 正确
+
+  mean v. 意味着
+
+- initiate v. 开始、启动；加入（团体） n. 发起人
+
+  initiation n. 开始；加入
+
+  initiative n. 主观能动性；先机；倡议；法案（法律环境）
+
+  initial adj. 最初的；首字母的 n. 名字的首字母 v. 签署
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1332,9 +1354,15 @@
 
   take advantage of
 
+  make use of
+
+  make the most of
+
   apply
 
   employ
+
+  deploy
 
   leverage
 
@@ -1508,6 +1536,28 @@
 
   essay n. 小论文
 
+- 表示“实施”
+
+  implement
+
+  carry out
+
+  conduct
+
+- 表示“尤其”
+
+  especially
+
+  particularly
+
+- 表示“显著的”
+
+  marked (褒义)
+
+  notable
+
+  obvious
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的
@@ -1615,3 +1665,7 @@
   defense n. 防御；抗辩（法律）
 
   defend v. 保卫
+
+- rural adj. 乡村的
+
+  urban adj. 城市的

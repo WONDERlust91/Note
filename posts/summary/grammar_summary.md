@@ -95,12 +95,19 @@ a n. of 可当作一堆理解，如 a sea of 一海的，表示大量
 a number of n. 重点为后面的名词，翻译为许多 X  
 the number of n. 重点为 number，翻译为 X 的数量
 
-a number of 后接可数名词  
-the number of 后接可数名词  
-an amount of 后接不可数名词  
-the amount of 后接不可数名词
+- number 后接可数名词
 
-a large sum of 通常形容钱
+  a number of
+
+  the number of
+
+- amount 后接不可数名词
+
+  an amount of
+
+  the amount of
+
+- a large sum of 通常形容钱
 
 ### 分数
 
@@ -376,27 +383,29 @@ Producing computers from China is interesting.
 
 - It is adj. for sb. to do sth.
 
-It is portable for me to use my laptop.
+  It is portable for me to use my laptop.
 
-这句话是错误的，portable 可以用于形容 laptop，但不能用于形容 use my laptop。
+  这句话是错误的，portable 可以用于形容 laptop，但不能用于形容 use my laptop。
 
-应改为 It is convenient for me to use my laptop.
+  应改为 It is convenient for me to use my laptop.
 
-It is exciting for me to play soccer. = Playing soccer makes me excited.
+  It is exciting for me to play soccer. = Playing soccer makes me excited.
 
 - It is adj. that + 完整句子.
 
-It is important that we should read books.
+  It is likely that ... (likely 是 adj.)
+
+  It is notable that ...
+
+  It is important that we should read books.
 
 - 感官动词 = 系动词 = be 动词，因此 It + 感官动词 也大概率是形式主语
 
-It seems/sounds that you are right.
-
-It is likely that ....
+  It seems/sounds that ...
 
 - 不是所有 it 开头的句子都是形式主语
 
-It can make me happy.
+  It can make me happy.
 
 ### 形式宾语
 
@@ -1087,6 +1096,14 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 - only if 几乎等于 if。if 译为如果，不排除其他情况；only if 译为除非（仅仅如果），only if 排除了其他情况
 
   if only 译为要是这样就好了
+
+- 非谓语作状语的 3 个情况
+
+  By doing sth.
+
+  Without doing
+
+  Using sth.
 
 - used to do 译为过去常常做（现在不了），其中 used 作为动词过去式 to 为不定式（但还有一种情况是两者没有关系，used 跟着前面的意群 to 是动词不定式）
 
