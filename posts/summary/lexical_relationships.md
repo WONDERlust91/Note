@@ -198,6 +198,8 @@
 
   delicate adj. 精细的；易坏的；脆弱的；敏感的
 
+  extricate v. 解脱
+
   complicate v. 使更加复杂或混乱
 
   intricate adj. 非常复杂或详细的
@@ -755,6 +757,28 @@
   initiative n. 主观能动性；先机；倡议；法案（法律环境）
 
   initial adj. 最初的；首字母的 n. 名字的首字母 v. 签署
+
+- iron n. 铁；铁器；熨斗 v. 熨平
+
+  ion n. 离子
+
+- secret n. 秘密 adj. 秘密的（重音在前）
+
+  secrete v. 分泌；隐藏（重音在后）
+
+- abject adj. 悲惨绝望的、凄惨的；卑微的
+
+  eject v. 向外抛出
+
+  inject v. 注射；注入
+
+  object n. 物体；对象；目标；宾语 v. 反对、拒绝
+
+  project n. 项目；工程（房产） v. 预测；突出；投影；宣传
+
+  reject v. 拒绝 n. 落选者
+
+  subject v. 遭受；统制 n. 主题；学科；公民；主语 adj. 易受影响的；取决于的、依赖的；统制下的 adv. 取决于
 
 ## Synonyms
 
