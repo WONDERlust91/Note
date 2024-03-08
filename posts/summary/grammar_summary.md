@@ -45,7 +45,7 @@
 
 ### 介词
 
-介词后跟名词、动名词
+介词后跟名词、动名词，作用是作为 adj. 或 adv.
 
 介词翻译不可拿中文意思硬套，需要按上下文，使用介词本质意思理解翻译
 
@@ -56,21 +56,34 @@
 
 两种情况需要在语境中根据上下文具体分析，常见修饰动词的介词短语有 by doing。
 
+复合介词，具有两个介词的意思，主要以在后面的介词为主，例如 onto/into 分别具有 on 和 in 的意思，但主要是 to
+
 - in 在...范围里；可以是实际的范围，也可以是抽象的范围
-- on 在...上；抽象意义中有笼罩在...上的意思，如 effect on
-- for 介词：为了；连词：因为，后面加句子，等同于 because
-- of 对于、强调属性。A book in history 历史上的一本书，A book of history 一本关于历史的书
-- be of n. = have n. = be adj.  
-  This book is of importance.  
-  This book has importance.  
-  This book is important.
+
+- on 在...上；抽象意义中有笼罩在...上的意思，如 effect on/a study on
+
+- at 在...的点上；如时间、速度、状态、温度、home、级别、数据、point
+
+- for 介词：为了(本质就是原因)；连词：因为，后面加句子，等同于 because
+
+- to/toward 表示一种指向性，相当于一个箭头（注意与不定式完全无关）
+
+- by 通过
+
 - with 和、用
-- to 表示一种指向性
+
+- of 对于、强调属性。A book in history 历史上的一本书，A book of history 一本关于历史的书
+
 - over 后面加数字，表示超过；后面加抽象名词 over=to/of/about，可译为对于
+
 - around 遍布；动词+around 可译为 X 来 X 去
+
 - across 遍布
+
 - against 针对
+
 - about 关于；后跟数字有关的词译为大约
+
 - between 常见 between A and B；也有 between + 复数
 
 ### 副词
@@ -151,19 +164,19 @@ I think that that these books are good is interesting. 宾语从句套主语从�
 
 ### 状语从句
 
-本质：状语从句作为副词，修饰动词或形容词
+本质：状语从句作为副词，修饰动词或形容词或介词短语（介词短语情况很少见）
 
 - 关系连词 + 分句，主句（主谓宾）
 
-Although I think that that these books are good is interesting, 主句.
+  Although I think that that these books are good is interesting, 主句.
 
-When I was in school, I can play soccer.
+  When I was in school, I can play soccer.
 
 - 主句（主谓宾），关系连词 + 分句
 
-当分句主语和主句主语一样的时候，可以省略分句的主语，如果分句主语有 be 动词，也可以省略。
+  当分句主语和主句主语一样的时候，可以省略分句的主语，如果分句主语有 be 动词，也可以省略。
 
-When written, this book is new.
+  When written, this book is new.
 
 #### 实例
 
@@ -1104,6 +1117,14 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   Without doing
 
   Using sth.
+
+- be of n. = have n. = be adj.
+
+  This book is of importance.
+
+  This book has importance.
+
+  This book is important.
 
 - used to do 译为过去常常做（现在不了），其中 used 作为动词过去式 to 为不定式（但还有一种情况是两者没有关系，used 跟着前面的意群 to 是动词不定式）
 
