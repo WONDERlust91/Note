@@ -786,7 +786,7 @@
 
   very adv. 非常地 adj. 确实的；准确的；就是
 
-  rather adv. 偏好地；相当地；相反地 excl. 当然
+  rather adv. 偏好地；相当地；相反地（句首） excl. 当然
 
 ## Synonyms
 

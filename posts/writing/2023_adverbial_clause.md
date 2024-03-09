@@ -4,7 +4,7 @@
 
 一个句子等于是一个副词
 
-副词：修饰动词；形容词；介词
+副词：修饰动词（整个句子也归为此类，因为句子核心是动词）、形容词、介词
 
 因此状语从句也只有这三个功能
 
@@ -12,7 +12,7 @@
 
 只有一个关系连词引导
 
-If/when/where/although/though/while/because/as(when/while/because)
+If/when/where/although/though/while/because/as(= when/while/because)
 
 ## 修饰动词
 

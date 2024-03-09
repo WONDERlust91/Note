@@ -12,7 +12,18 @@
 ### 动词（谓语）
 
 - 及物动词 vt. 必需加宾语
+
 - 不及物动词 vi. 不能加宾语，所以也没有被动。但是有些不及物动词加上介词短语后，整体视为及物动词。（如 look at/agree with）
+
+- 感官动词（look/sound/taste/smell/feel） = 系动词（seem/become/stay/grow） = be 动词
+
+  注意 感官动词/系动词/be 动词 后面加 adj.或 n.
+
+  there becomes n.
+
+  it seems funny.
+
+  it seems that 句子.
 
 > 常见不及物动词
 >
@@ -45,7 +56,7 @@
 
 ### 介词
 
-介词后跟名词、动名词，作用是作为 adj. 或 adv.
+介词后跟名词、动名词，作用是作为 adj.（修饰名词） 或 adv.（修饰动词、句子、较少情况修饰形容词及介词短语）
 
 介词翻译不可拿中文意思硬套，需要按上下文，使用介词本质意思理解翻译
 
@@ -140,20 +151,39 @@ I am in school. 介词短语作宾语，要加 be 动词
 
 - 定语 = adj. 修饰名词
 
-- 状语 = adv. 修饰动词
+- 状语 = adv. 修饰动词、句子、形容词、介词短语（状语修饰前两者较常见，修饰后两者较少见）
 
 ### 主语从句
 
-主语本身是个句子，谓语用单数
+主语本身是个句子，谓语用单数：主语从句 + 谓语 + 宾语
 
-- how/what/where 引导
+- how/what/who/where/when/whether 引导
 
-what you eat is apples.
-How you play soccer hurts you.
+  what you eat is apples.
 
-- that 引导
+  How you play soccer hurts you.
 
-That you play tennis is interesting.
+  What is the most important thing for you does not hold true for others.
+
+  What you do is bad.
+
+  When you play soccer is a good time.
+
+  How you play soccer is good.
+
+  Whether you play soccer is unknown.
+
+  Who you like is him.
+
+  Who hates you is him.
+
+- that 引导：That + 完整句子 + 谓语（第三人称单数） + 宾语
+
+  That you play tennis is interesting.
+
+  That you can come to school tomorrow makes me happy.
+
+  That you can come to school tomorrow and you are happy make me happy.
 
 ### 宾语从句
 
@@ -164,91 +194,121 @@ I think that that these books are good is interesting. 宾语从句套主语从�
 
 ### 状语从句
 
-本质：状语从句作为副词，修饰动词或形容词或介词短语（介词短语情况很少见）
+#### 定义
 
-- 关系连词 + 分句，主句（主谓宾）
+本质：一个状语从句本身等于一个副词
 
-  Although I think that that these books are good is interesting, 主句.
+副词的作用：修饰动词（整个句子，也归于动词类，因为整个句子的核心是动词）、形容词、介词短语（介词短语情况很少见）
 
-  When I was in school, I can play soccer.
+因此状语从句也只有这三个功能
 
-- 主句（主谓宾），关系连词 + 分句
+#### 规则
 
-  当分句主语和主句主语一样的时候，可以省略分句的主语，如果分句主语有 be 动词，也可以省略。
+只有一个关系连词引导，如果有超过一个连词，那么一定是发生了状语从句的嵌套（英语的本质是套娃）
 
-  When written, this book is new.
+If/when/where/although/though/while/because/as(= when/while/because)
+
+1. 修饰动词
+
+   - 关系连词 + 分句，主句（主语 + 谓语 + 宾语）
+
+     等价于
+
+     主句（主语 + 谓语 + 宾语），关系连词 + 分句
+
+     I can beat you, if you are happy. = If you are happy, I can beat you.
+
+   - “关系连词+分句” 修饰 “主句中的谓语”
+
+     When I was in school, I can play soccer.
+
+     I like this game played by him when he is happy. 没有逗号时，状语从句修饰的动词遵循就近原则，因此修饰非谓语动词 played
+
+     I like this game played by him, when I am happy. 有逗号且根据句意，状语从句修饰主句动词：like
+
+   - 当分句主语和主句主语一样的时候，可以省略分句的主语，如果分句主语有 be 动词，也可以省略。
+
+     When written, this book is new.
+
+2. 修饰形容词
+
+   There is a book useful and important for me when I am learning sth..
+
+3. 修饰介词（不太常见）
 
 #### 实例
 
-While
+1. While
 
-- 分句有进行时，一般是“当”
-- 没有进行时，一般是“尽管”，等于 although
+   - 分句有进行时，一般是“当”
+   - 没有进行时，一般是“尽管”，等于 although
 
-Although/Though/While 都是尽管（但是）没有实质区别
+   Although/Though/While 都是尽管（但是）没有实质区别，注意与连词 but 意思上没有太大的区别，但句子表达的重点有区别，“句子 1, but 句子 2”，句子 2 是重点；“Although 句子 1, 句子 2”，句子 2 是重点。
 
-As
+2. As
 
-- 介词：作为 + n.
+   - 介词：作为 + n.
 
-  As a student, you should ...
+     As a student, you should ...
 
-  regard A as B (n./adj.)
+     regard A as B (n./adj.)
 
-  see A as B
+     see A as B
 
-  think of A as B
+     think of A as B
 
-  值得注意的是，as 后还有跟形容词的特殊情况。
+     值得注意的是，as 后还有跟形容词的特殊情况。
 
-  I regard you as important.
+     I regard you as important.
 
-- 连词：后接完整句子
+   - 连词：后接完整句子
 
-  - 当/随着
+     - 当/随着
 
-  - 因为；例如主句表达一个现象，as 句子
+     - 因为；例如主句表达一个现象，as 句子
 
-  - 正如；as sb./sth. v. ；通常在句首或当插入语
+     - 正如；as sb./sth. v. ；通常在句首或当插入语
 
-- as 的固定搭配
+   - as 的固定搭配
 
-  as yet 副词 至今还
+     as yet 副词 至今还
 
-  as of + time 介词 自...起，从...开始
+     as of + time 介词 自...起，从...开始
 
-  as for = about 介词
+     as for = about 介词
 
-  as to = in terms of 介词
+     as to = in terms of 介词
 
-- as ... as 中间可以是任何成分，视句子结构而定。
+   - as ... as 中间可以是任何成分，视句子结构而定。
 
-  翻译：第一个 as 忽略，第二个 as 译为“正如”
+     翻译：第一个 as 忽略，第二个 as 译为“正如”
 
-  This city is as beautiful as Shanghai.
-  This city grows as beautifully as Shanghai does.
+     This city is as beautiful as Shanghai.
+     This city grows as beautifully as Shanghai does.
 
-  as ... as 写作易错点：
+     as ... as 写作易错点：
 
-  错误：You play soccer as beautiful as he dose.
+     错误：You play soccer as beautiful as he dose.
 
-  注意 beautiful 词性是形容词，不能修饰动词，需要换成副词。
+     注意 beautiful 词性是形容词，不能修饰动词，需要换成副词。
 
-  正确：You play soccer as beautifully as he dose.
+     正确：You play soccer as beautifully as he dose.
 
-  常见 as ... as 翻译:
+     常见 as ... as 翻译:
 
-  as long as 只要
+     as long as 只要；像...一样远的
 
-  as far as/so far as 至于
+     as far as/so far as 至于；像...一样远的
 
-  as soon as 尽快
+     as well as 和 = and；像...一样好地
 
-  as early as 早在
+     as soon as 尽快
 
-yet
+     as early as 早在
 
-1. 句首的 yet 等于 but，表转折
+3. yet
+
+   句首的 yet 等于 but，表转折
 
    yet 状语从句套 while 状语从句的情况（本质就是英语的完整句子可以无限套娃）
 
@@ -259,6 +319,10 @@ yet
    句子 1, yet 句子 2（句子 2 = while 分句, 主句）
 
    句子 2 以主句为主，因此，“句子 1”与“主句”是转折关系，“分句”与“主句”亦是转折关系，但“句子 1”与“分句”无关系，因为两个转折可以从不同的方面进行。
+
+4. 与其他从句的嵌套
+
+   Although I think that that these books are good is interesting, 主句. （状语从句嵌套宾语从句嵌套 that 引导的主语从句，主句）
 
 ### 定语从句
 
@@ -384,11 +448,27 @@ yet
 
 ### 动名词做主语
 
-v.ing + 宾语 + 谓语 **（单数）** + 宾语
+v.ing/(Ving + 宾语) + 谓语（**第三人称单数**） + 宾语
 
 Thinking that you are good is interesting.
 
 Producing computers from China is interesting.
+
+- 我们在图书馆里学习使我们很开心
+
+  Learning in our library makes us happy.
+
+  扩展：Learning quietly in our library which is in this campus makes us happy.
+
+- Thinking that producing computers from China when the economy is good is effective makes me happy.
+
+  整体是两个动名词做主语的句子嵌套
+
+  1. (Thinking that + 句子) makes me happy.
+
+  2. Producing computers (状语) is effective.
+
+     from China 和 when the economy is good 都是 producing 的状语
 
 ### 形式主语
 
@@ -412,7 +492,7 @@ Producing computers from China is interesting.
 
   It is important that we should read books.
 
-- 感官动词 = 系动词 = be 动词，因此 It + 感官动词 也大概率是形式主语
+- 感官动词（look/sound/taste/smell/feel） = 系动词（seem/become/stay/grow） = be 动词，因此 It + 感官动词 也大概率是形式主语
 
   It seems/sounds that ...
 
@@ -446,19 +526,73 @@ I want to make playing soccer in our nation become more and more popular.
 
 I want to make it become more and more popular to play soccer in our nation.
 
-### 同位语
+### 同位语和同位语从句
 
-用于解释名词内容，只能用 that
+#### 同位语和插入语
+
+插入语(位置概念)，插入语可能是定语、状语、同位语
+
+I, when I am in school, love you. (状语)
+
+同位语(内容概念)，核心名词，注意和主句名词相等，并不是修饰（修饰是定语）
+
+Iphone, a famous product that is from Apple, is an electronic device. 核心名词 product = iphone
+
+Iphone, the essential in our life, is an electronic device. 核心名词 the essential = iphone
+
+#### 同位语从句和定语从句
+
+同位语从句（内容：解释说明名词本身，只能用 that）
+
+There is an idea that we could go to school.
 
 I like this piece of news that is fresh. 定语从句
 
+定语从句（怎么样：修饰名词，除 that 外还可能用 which 或 which 带介词或副词 where 等）
+
+There is an idea that is good.
+
 I like this piece of news that I can read books. 同位语从句
 
-定语从句用于修饰名词，而同位语从句用于解释名词的内容
+#### 常见同位语从句信号词
 
-常见用于同位语名词有：
+phenomenon 现象
 
-I like this idea/opinion/news/story that
+suggestion 建议
+
+implication 寓意
+
+tendency 趋势
+
+trend 趋势
+
+inclination 倾向
+
+awareness 意识、认知
+
+idea 想法
+
+news 新闻
+
+story 故事
+
+fact 事实
+
+I like this idea/opinion/news/story/fact that
+
+#### 常见错误用法
+
+1. There is a trend that we could go to school.
+
+   语法上没有问题，但 we could go to school 不是 trend，意思上说不通，应改为：
+
+   There is a trend that a lot of teenagers start to go to school in the afternoon.
+
+2. There is a situation that more people begin to respect our own culture.
+
+   语法上没有问题，但要表达的意思不是情况本身，而是在这个情况下，因此需要用 where （定语从句）而不是 that （同位语从句）：
+
+   There is a situation where(in which) more people begin to respect our own culture.
 
 ### There be
 
@@ -504,13 +638,7 @@ I think that I like you. There is an idea from me that I like you.
 
 翻译为如此...以至于... 表递进关系
 
-1. so that 作连词，翻译为以至于
-
-   句子 1, so that 句子 2
-
-   There are so many apples so that there is no other fruit.
-
-2. so adj./adv. that 完整句子
+1. so adj./adv. that 完整句子
 
    I am so smart that I know all of this.
 
@@ -530,7 +658,7 @@ I think that I like you. There is an idea from me that I like you.
 
    I have a book, which taught me so effectively that I know every thing.
 
-3. such n. that 完整句子
+2. such n. that 完整句子
 
    You are such a good boy that you can do this.
 
@@ -539,6 +667,12 @@ I think that I like you. There is an idea from me that I like you.
    I am happy today because I earned such a great bag today that I am thrilled.
 
    It is important to have such a great book that I can read it everyday.
+
+3. so that 作连词，翻译为以至于
+
+   句子 1, so that 句子 2
+
+   There are so many apples so that there is no other fruit.
 
 ### 强调句
 
@@ -1117,6 +1251,10 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   Without doing
 
   Using sth.
+
+- hand in hand 手拉手，也可表示合作、配合
+
+  A could go hand in hand with B = A needs to cooperate with B
 
 - be of n. = have n. = be adj.
 

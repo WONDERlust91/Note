@@ -42,7 +42,7 @@ awareness 意识、认知
 
 1. There is a trend that we could go to school.
 
-   语法上没有问题，但 we could go to school 不是 trend 意思上说不通，应改为：
+   语法上没有问题，但 we could go to school 不是 trend，意思上说不通，应改为：
 
    There is a trend that a lot of teenagers start to go to school in the afternoon.
 
