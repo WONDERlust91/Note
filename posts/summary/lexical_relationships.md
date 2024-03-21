@@ -296,6 +296,10 @@
 
   imitate v. 模仿
 
+  mitigate v. 缓解
+
+  irrigate v. 灌溉
+
   intimidate v. 威吓
 
   immediate adj. 立即的；最接近的
@@ -716,7 +720,9 @@
 
   integrity n. 诚实正直；完整性
 
-- wary adj. 小心的；提防的
+- vary v. 改变（部分）
+
+  wary adj. 小心的；提防的
 
   weary adj. 疲倦的；厌倦的 v. 使疲倦；使厌倦
 
@@ -780,13 +786,15 @@
 
   subject v. 遭受；统制 n. 主题；学科；公民；主语 adj. 易受影响的；取决于的、依赖的；统制下的 adv. 取决于
 
-- 表示“非常地”、“相当地”
+- via prep. 通过
 
-  fairly adv. 公平地；相当地
+  vie v. 激烈竞争、争夺 = compete/contend
 
-  very adv. 非常地 adj. 确实的；准确的；就是
+- fetal adj. 胎儿的
 
-  rather adv. 偏好地；相当地；相反地（句首） excl. 当然
+  fetus n. 胎儿
+
+  fatal adj. 致命的
 
 ## Synonyms
 
@@ -1486,13 +1494,19 @@
 
   spur
 
-- 法律词汇“罪行”、“指控”、“律师”、“法官”、“原被告”相关
+- 法律词汇相关
 
   accuse v. 指责（不一定是法律上）
 
   charge n. v. 指控（法律上，但不一定有罪）
 
   sentence n. 刑罚（被判决有罪）
+
+  settle v. 和解
+
+  petition v. n. 请愿（正式地，向法庭或官方）
+
+  verdict n. 判决书、裁决
 
   jail sentence n. 入狱的刑罚
 
@@ -1506,7 +1520,9 @@
 
   justice n. 美国最高法院法官（共有 9 人，首席为 chief justice）
 
-  judge n. 普通法官
+  judge n. 普通法官 v. 判断；判决
+
+  jury n. 陪审团
 
   defendant n. 被告
 
@@ -1589,6 +1605,22 @@
   notable
 
   obvious
+
+- 表示“非常地”、“相当地”
+
+  fairly adv. 公平地；相当地
+
+  very adv. 非常地 adj. 确实的；准确的；就是
+
+  rather adv. 偏好地；相当地；相反地（句首） excl. 当然
+
+- “坡”
+
+  slope n. 坡 v. 倾斜
+
+  ramp n. 坡 v. 提供斜坡；增加
+
+  ramp up 增加，提高
 
 ## Antonyms
 
@@ -1701,3 +1733,7 @@
 - rural adj. 乡村的
 
   urban adj. 城市的
+
+- before long 不久之后 = soon/at the near future
+
+  long before 很久以前

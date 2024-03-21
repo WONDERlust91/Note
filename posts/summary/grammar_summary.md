@@ -302,7 +302,7 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
      as well as 和 = and；像...一样好地
 
-     as soon as 尽快
+     as soon as 尽快；一...就 = the moment
 
      as early as 早在
 
