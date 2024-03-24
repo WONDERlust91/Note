@@ -27,7 +27,7 @@
 
 > 常见不及物动词
 >
-> 发生：happen/occur/take place
+> 发生：happen/occur/take place/come about/arise
 > 增长：rise
 
 ### 形容词
@@ -131,7 +131,11 @@ the number of n. 重点为 number，翻译为 X 的数量
 
   the amount of
 
+- amount to 等于（这里 amount 是动词不是量词）
+
 - a large sum of 通常形容钱
+
+- scores of 大量的
 
 ### 分数
 
@@ -308,17 +312,25 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
 3. yet
 
-   句首的 yet 等于 but，表转折
+   - 句首的 yet 等于 but，表转折，译为“尽管”
 
-   yet 状语从句套 while 状语从句的情况（本质就是英语的完整句子可以无限套娃）
+     yet 状语从句套 while 状语从句的情况（本质就是英语的完整句子可以无限套娃）
 
-   句子 1, yet while 分句, 主句
+     句子 1, yet while 分句, 主句
 
-   等价于
+     等价于
 
-   句子 1, yet 句子 2（句子 2 = while 分句, 主句）
+     句子 1, yet 句子 2（句子 2 = while 分句, 主句）
 
-   句子 2 以主句为主，因此，“句子 1”与“主句”是转折关系，“分句”与“主句”亦是转折关系，但“句子 1”与“分句”无关系，因为两个转折可以从不同的方面进行。
+     句子 2 以主句为主，因此，“句子 1”与“主句”是转折关系，“分句”与“主句”亦是转折关系，但“句子 1”与“分句”无关系，因为两个转折可以从不同的方面进行。
+
+   - 用在肯定句中，表否定，当作 not
+
+   - 用在否定或疑问句，表示直到现在或某个时间点，译为还没
+
+   - yet another = another
+
+     yet further = further
 
 4. 与其他从句的嵌套
 
@@ -1104,6 +1116,8 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
   A looks far less like B, and a good deal more like C. A 看起来远不像 B，并远远更加多像 C。
 
+- scores of sth. 不是 A of B（核心词是 A），scores of 是量词，表示很多，核心词是后面的 sth.
+
 - in that = because 连词 （in that 单独作为一个意群时）
 
 - should 除表示“本应该”外，还用在从句的 that 后，或用在 why，how，who，what 等词后，表示惊讶，译为竟然，还能。
@@ -1256,6 +1270,16 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
   A could go hand in hand with B = A needs to cooperate with B
 
+- bind v. 束缚（过去式与过去分词 bound）
+
+  be bound to 注定会，必然会
+
+- of sorts 某种程度上的（不太典型的例子）
+
+  a lie of sorts 一个谎言在某种程度上
+
+  sort of 某种程度上的（有点）
+
 - be of n. = have n. = be adj.
 
   This book is of importance.
@@ -1263,6 +1287,8 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   This book has importance.
 
   This book is important.
+
+- be it A or B 无论 A 还是 B = whether A or B
 
 - used to do 译为过去常常做（现在不了），其中 used 作为动词过去式 to 为不定式（但还有一种情况是两者没有关系，used 跟着前面的意群 to 是动词不定式）
 
@@ -1292,10 +1318,14 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
        I don't want to go to school given the weather today.
 
-  6. in charge 负责、管理（当领导）
+  6. provided 在句首，词性为连词（后面跟句子），译为如果（= if）
 
-  7. bring about = lead to 导致
+     provided 分句, 主句
 
-  8. not least = in particular; notably. 尤其
+  7. in charge 负责、管理（当领导）
 
-  9. set out 出发旅程；想要做某事；按特定顺序安排或罗列某事
+  8. bring about = lead to 导致
+
+  9. not least = in particular; notably. 尤其
+
+  10. set out 出发旅程；想要做某事；按特定顺序安排或罗列某事

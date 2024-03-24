@@ -796,6 +796,28 @@
 
   fatal adj. 致命的
 
+- concern v. 关于；担心 n. 担忧；关注的事务；生意、公司
+
+  discern v. 辨别 = tell/distinguish；识别 = recognize
+
+- daunting adj. 令人畏惧的 = intimidating
+
+  daunt v. 使胆怯、使丧失信心、使气馁
+
+  daunted adj. 胆怯的
+
+  haunt v. （鬼魂）萦绕于
+
+  haunted adj. 闹鬼的
+
+- decent adj. 很好的
+
+  descent n. 下降
+
+  descend vi. 下降（不及物）
+
+  ascend vi. 上升（不及物）
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -854,7 +876,7 @@
 
   adj. considerable
 
-- 表示“关于”的词组
+- 表示“关于”、“涉及到”、“谈论到”的词组(里面所有 to 都是介词)
 
   concerning
 
@@ -871,6 +893,8 @@
   in/with reference to
 
   in terms of
+
+  when it comes to
 
   relating to
 
@@ -1326,7 +1350,7 @@
 
   disdain v.n. 贬低
 
-  mock v. 嘲笑、愚弄 adj. 模拟、仿造（无恶意）
+  mock v. 嘲笑、愚弄 adj. 模拟的、仿造的（无恶意）
 
   deride v. 嘲弄、轻视
 
@@ -1622,6 +1646,36 @@
 
   ramp up 增加，提高
 
+- “模拟”、“模仿”
+
+  imitate v. 模仿
+
+  mimic v. 模仿（人的言行举止）；（尤指）做滑稽的模仿
+
+  mimicry n. 模仿
+
+  mock v. 嘲笑、愚弄 adj. 模拟的、仿造的（无恶意）
+
+- “名望”、“声望”
+
+  renown n. 名誉、声望（被很多人知道，褒义）
+
+  prestige n. 声望（褒义）
+
+  reputation n. 名声（可能有好有坏）
+
+- “发生”
+
+  happen
+
+  occur
+
+  come about
+
+  take place
+
+  arise
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的
@@ -1737,3 +1791,7 @@
 - before long 不久之后 = soon/at the near future
 
   long before 很久以前
+
+- descend vi. 下降（不及物）
+
+  ascend vi. 上升（不及物）
