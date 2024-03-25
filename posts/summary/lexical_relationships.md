@@ -876,6 +876,8 @@
 
   adj. considerable
 
+  adj. mammoth
+
 - 表示“关于”、“涉及到”、“谈论到”的词组(里面所有 to 都是介词)
 
   concerning
