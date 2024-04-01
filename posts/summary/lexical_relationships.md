@@ -818,6 +818,10 @@
 
   ascend vi. 上升（不及物）
 
+- sedentary adj. 久坐的
+
+  secondary adj. 次要的；中学的
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
