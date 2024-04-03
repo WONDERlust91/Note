@@ -828,6 +828,18 @@
 
   band n. 扁平的带子或环；细长的区域（与周围纹理、颜色不同）；一群人（共同兴趣或目标）；乐队 v. 用带子或环绑起来；用不同颜色条纹标记；形成团体
 
+- derive v. 派生、衍生
+
+  deprive v. 剥夺
+
+- overlook v. 忽视
+
+  overstep v. 越过、超过
+
+  outweigh v. 超过的（更重的）
+
+  overturn v. 推翻；撤销（裁决等）
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1466,6 +1478,18 @@
 
   nearly
 
+- 表示“实质上”、“实际上”短语
+
+  in fact
+
+  in effect
+
+  in essence
+
+  in practice
+
+  in reality
+
 - 地球地理相关
 
   crust 地壳
@@ -1563,6 +1587,24 @@
   defendant n. 被告
 
   plaintiff n. 原告
+
+  provision n. （法律文件的）规定、条款；提供、供给；提供的数量 v. 提供食物、水、装备（尤指旅游）；提供预留资金（为负债）
+
+  enforce v. 执法、执行
+
+  enforcement n. 执法、执行
+
+  statute n. 成文法、法令、法规
+
+  overturn v. 推翻；撤销（裁决等）
+
+  legitimate adj. 合法的 v. 使合法、合法化
+
+  White House/Administration 指 President 总统（行政权，可否定立法、推举法官）
+
+  Capitol Hill/Hill 指 Congress 国会（立法权，可弹劾总统、法官）（Capitol 是国会的标志性建筑）
+
+  Supreme Court 最高法（执法权，可否决行政命令和立法）
 
 - 表示“强调”
 
