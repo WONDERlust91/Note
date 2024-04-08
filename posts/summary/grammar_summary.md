@@ -283,6 +283,8 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
      as to = in terms of 介词
 
+     as though = like 就好像（字面翻译：就像尽管）你数学不及格，就像没学过一样（You failed in math exam. It is as though you've never learned math.）
+
    - as ... as 中间可以是任何成分，视句子结构而定。
 
      翻译：第一个 as 忽略，第二个 as 译为“正如”
@@ -1254,7 +1256,7 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
   Sth. happend. They do sth. fewer than (what) would otherwise have been the case. 一些事情发生了，他们做某件事更少了，比不是这样的情况下。
 
-- only if 几乎等于 if。if 译为如果，不排除其他情况；only if 译为除非（仅仅如果），only if 排除了其他情况
+- only if 几乎等于 if。if 译为如果，不排除其他情况；only if 译为除非（仅仅如果），only if 排除了其他情况；还要注意 only 开头（否定副词开头），主谓倒装的情况
 
   if only 译为要是这样就好了
 
@@ -1289,6 +1291,20 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   This book is important.
 
 - be it A or B 无论 A 还是 B = whether A or B
+
+- foot 表示尺寸时，什么时候用单数什么时候用复数
+
+  1. 当形容词时用单数 a 10-foot tree
+
+  2. 当名词时常用复数 tree is 10 feet high
+
+  3. 形容身高且带有英寸时常用单数 I'm 5-foot-7 = I'm 5 feet 7 inches tall
+
+     整数英寸身高直接使用复数 I'm 6 feet tall.
+
+- centi- 前缀 指百分之一 或 一百
+
+  centimeter 百分之一米即一厘米
 
 - used to do 译为过去常常做（现在不了），其中 used 作为动词过去式 to 为不定式（但还有一种情况是两者没有关系，used 跟着前面的意群 to 是动词不定式）
 

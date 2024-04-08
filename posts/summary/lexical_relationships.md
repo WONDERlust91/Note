@@ -728,7 +728,7 @@
 
 - ensure v. 确保
 
-  insure v. 投保 (insure 很少用了)
+  insure v. 投保 (insure 很少用于表示确保了)
 
   insurance n. 保险
 
@@ -1729,6 +1729,20 @@
   take place
 
   arise
+
+- 表“补助”、“福利”
+
+  benefit n. 福利（社会、工作环境等，福利的总称）；利益
+
+  welfare n. （政府给予的）福利
+
+  pension n. 退休金
+
+  allowance n. 津贴、补助（餐补、车补等，或离婚后对孩子的赡养费，侧重于定期发放的补贴）；行李最大允许重量（baggage allowance）
+
+  subsidy n. 补贴（电动车补贴，政府对某行业的支持性补助）
+
+  subsidize v. 补贴
 
 ## Antonyms
 
