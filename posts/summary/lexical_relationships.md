@@ -840,6 +840,24 @@
 
   overturn v. 推翻；撤销（裁决等）
 
+- nuisance n. 麻烦事、讨厌的人（或东西）
+
+  nonsense n. 胡说；愚蠢或不可接受的行为
+
+- sensible adj. 明智的、聪明的
+
+  sensitive adj. 敏感的
+
+- weep v. 哭泣、掉泪；渗出液体 n. 抽咽、哭泣
+
+  wipe v. 擦拭；消灭 n. 擦拭；一次性清洁布
+
+  wipe out 消灭、销毁、一笔勾销
+
+  sweep v. 清扫；迅速平滑地移动；搜索 n. 清扫；长且迅速的弧线运动；全面搜索或调查；长且弯曲的道路、河流等；长且重的桨；风车的帆
+
+  sweeping adj. 广阔的；影响广泛的（横扫的）
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1208,7 +1226,7 @@
 
   exacerbate v. 恶化
 
-  aggravate v. 加剧，恶化
+  aggravate v. 加剧，恶化 = deteriorate/exacerbate；惹怒 = exasperate
 
 - 表示“依赖...生活”
 
@@ -1743,6 +1761,14 @@
   subsidy n. 补贴（电动车补贴，政府对某行业的支持性补助）
 
   subsidize v. 补贴
+
+- 表“揭示”、“展露”
+
+  unveil v. 揭幕、揭牌、揭开
+
+  reveal v. 揭示、透露 n. 揭秘（影视作品最后揭开的信息）
+
+  rollout n. 揭幕、推出 = unveiling；飞机着陆阶段；（美式足球）一种策略，四分位传球或前进前跑向边线的策略
 
 ## Antonyms
 
