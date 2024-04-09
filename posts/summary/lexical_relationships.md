@@ -858,6 +858,22 @@
 
   sweeping adj. 广阔的；影响广泛的（横扫的）
 
+- instinct n. 直觉、本能 adj. 充满（好的品质）
+
+  intrinsic adj. 固有的、内在的
+
+  intricate adj. 非常复杂或详细的
+
+- distort v. 使变形、扭曲、使失真
+
+  distortion n. 变形、扭曲、失真
+
+  contort v. 面部或身体扭曲
+
+  contortionist n. 柔术演员
+
+  tort n. 侵权行为
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别

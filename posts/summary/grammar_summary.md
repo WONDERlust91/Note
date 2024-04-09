@@ -312,6 +312,8 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
      as early as 早在
 
+     as much as 尽管（仅在句首）；像...一样多的
+
 3. yet
 
    - 句首的 yet 等于 but，表转折，译为“尽管”
@@ -1068,13 +1070,15 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
 - be immune to (from) sth. 对某物产生免疫。
 
-- out 作为前缀的词，表示程度更深
+- out 作为前缀的词，表示程度更深，超过
 
   A outlive B - A 比 B 活得更久
 
   A outsmart B - A 更聪明胜过 B
 
   A outperform B - A 比 B 表现更好
+
+  A has been outgrew by B - A 被 B 发展超过了
 
 - 句子 A, before 句子 B = Before 句子 B, 句子 A
 
