@@ -874,6 +874,28 @@
 
   tort n. 侵权行为
 
+- affirm v. 公开肯定；提供情感支持与鼓励
+
+  confirm v. 确认
+
+  infirm adj. 体弱的
+
+  firm adj. 坚实的；坚定的 v. 使变得坚实 adv. 坚定地 n. 公司
+
+- literature n. 文学
+
+  literary adj. 文学的
+
+  literal adj. 字面的；逐字的；太字面的（缺乏想象力、不生动）；
+
+  literacy n. 识字能力
+
+  literate adj. 识字的 n. 识字的人
+
+  illiteracy n. 文盲
+
+  illiterate adj. 文盲的 n. 文盲的人
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1786,9 +1808,23 @@
 
   rollout n. 揭幕、推出 = unveiling；飞机着陆阶段；（美式足球）一种策略，四分位传球或前进前跑向边线的策略
 
+- “专业”、“课程”相关
+
+  subject n. 科目（非常大的概念，例如：数学、物理）
+
+  major n. 专业（科目下的细分，例如：数学 subject 下的应用数学 major）
+
+  curriculum n. 课程系列（一个专业需要修的一系列课程统称，例如应用数学专业要修数学分析、线性代数等等课程，所有课程统称 curriculum）复数是 curricular
+
+  course n. 一门课程（一系列课程中的一门课，例如：高等数学或线性代数）
+
+  class n. 一堂课（例如：高等数学这个 course 这学期有 40 堂 class）
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的
+
+  progressive adj. 逐步的、渐进的；倾向社会改革或自由主义的（左倾的）
 
   conservative adj. 保守的，右倾的
 
