@@ -1820,6 +1820,16 @@
 
   class n. 一堂课（例如：高等数学这个 course 这学期有 40 堂 class）
 
+- “贵族”
+
+  nobility n. 高贵（褒）；贵族
+
+  noble adj. 贵族的；高贵的（褒） n. 贵族出身
+
+  aristocratic adj. 贵族的（重音在 cratic）
+
+  aristocracy n. 贵族（重音在 tocracy）
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的
