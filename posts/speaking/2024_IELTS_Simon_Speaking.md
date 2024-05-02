@@ -1,8 +1,8 @@
 # IELTS Speaking
 
-## Lesson 1 - Introduction
+## Introduction
 
-### Timing, 3 parts of the test
+Timing, 3 parts of the test:
 
 - 11 to 14 minutes overall, timing is very strict
 
@@ -10,7 +10,7 @@
 - Part2: 3 to 4 minutes
 - Part3: 4 to 5 minutes
 
-### Scoring system
+Scoring system:
 
 4 scores, 25% each
 
@@ -19,7 +19,7 @@
 3. Grammar
 4. Pronunciation
 
-### Some tips
+Some tips:
 
 - be ready
 - know what to expect
@@ -27,7 +27,7 @@
 - natural language, not difficult language
 - answer as quickly as you can
 
-### Don't worry about
+Don't worry about:
 
 - body language
 - eye contact
@@ -36,7 +36,7 @@
 - presentation skills
 - the examiner's behaviour
 
-## Lesson 2 - Part 1
+## Part 1
 
 4 to 5 minutes
 
@@ -44,7 +44,7 @@
 
 3 topic areas
 
-### Remember
+Remember:
 
 - try to show fluency
 - don't stop and think
@@ -52,15 +52,15 @@
 - it's an easy warm-up
 - give short, simple answers
 
-### Best technique
+Best technique:
 
-Answer the question **then give a reason**
+1. Answer the question **then give a reason**
 
-**Give short, simple answers** but use full sentences
+2. **Give short, simple answers** but use full sentences
 
-Stop with confidence **don't keep talking smile at the examiner!**
+3. Stop with confidence **don't keep talking smile at the examiner!**
 
-### Topics: Often seem childish
+Topics: Often seem childish
 
 - What's your favourite colour?
 
@@ -68,11 +68,11 @@ Stop with confidence **don't keep talking smile at the examiner!**
 
 A good way to practise:
 
-Do you like ...?
+- Do you like ...?
 
-games, walking, gardens, flowers, dancing
+  games, walking, gardens, flowers, dancing
 
-3 introduction questions
+3 introduction questions:
 
 - Do you work or are you a student?
 
@@ -106,7 +106,7 @@ games, walking, gardens, flowers, dancing
 
 - Do you wear different coloured clothes now compared to when you were a child?
 
-## Lesson 3 - 9 - Part 2
+## Part 2
 
 - 3 to 4 minutes
 - 1 minute to prepare
@@ -116,41 +116,33 @@ games, walking, gardens, flowers, dancing
 
 Make notes:
 
-Quickly decide what you're going to talk about
+- Quickly decide what you're going to talk about
 
 Technique:
 
-Follow the points on the task card. They help your structure and give you something to say. Say as much as you can for each point.
+- Follow the points on the task card. They help your structure and give you something to say. Say as much as you can for each point.
 
 Before the exam:
 
-Prepare for common topic areas
+- Prepare for common topic areas
+- Vocabulary and ideas are the key
 
-Vocabulary and ideas are the key
+Topics, techniques, vocabulary, example question:
 
-### Topics, techniques, vocabulary, example question
-
-6 main topic areas:
-
-Describe a person / a place / an object / an event / an activity / your favourites
-
-**Prepare ideas and vocabulary** not grammar or linking
-
-Speak naturally, explain in detail
-
-content, not structure
-
-You can't prepare for everything
-
-You will need to adapt your ideas and improvise in the test.
+- 6 main topic areas:
+  - Describe a person / a place / an object / an event / an activity / your favourites
+  - **Prepare ideas and vocabulary** not grammar or linking
+- Speak naturally, explain in detail
+- content, not structure
+- You can't prepare for everything
+- You will need to adapt your ideas and improvise in the test
 
 Final step in preparation:
 
-Think of examples or stories to demonstrate each theme
+- Think of examples or stories to demonstrate each theme
+- Practise, record, improve
 
-Practise, record, improve
-
-#### Describe a person
+### Describe a person
 
 - teacher
 - famous person
@@ -198,7 +190,7 @@ friendly 'theme':
 
 My brother is hard-working: I remember when he used to get up at 5am to do some extra work before school...
 
-Examples question
+Examples question:
 
 Describe someone you know who does something well.
 
@@ -210,7 +202,7 @@ You should say
 
 and explain why you think this person is so good at doing this.
 
-#### Describe a place
+### Describe a place
 
 - a city (you've visited)
 - a city (you would like to visit)
@@ -278,7 +270,7 @@ We lost track of time because...
 
 The restaurant was friendly: The waiters really made us feel special. They even surprised us with a birthday cake...
 
-Example question 1
+Example question:
 
 Describe a river, lake or sea which you like.
 
@@ -290,7 +282,7 @@ You should say
 
 and explain why you like this river, lake or sea.
 
-Example question 2
+Example question:
 
 Describe a restaurant that you enjoyed going to.
 
@@ -302,7 +294,7 @@ You should say
 
 and explain why you enjoyed eating in this restaurant.
 
-#### Describe an object
+### Describe an object
 
 - something you own
 - something you would like to own
@@ -369,7 +361,7 @@ My watch is useful: If my watch hadn't notified me, I would have forgotten that 
 
 It has sentimental value: I remember that when I was a child, my grandfather taught me how to tell the time...
 
-Example question 1
+Example question:
 
 Describe something that you would like to own.
 
@@ -381,7 +373,7 @@ You should say
 
 and explain why you would like to own this object.
 
-Example question 2
+Example question:
 
 Describe something old that you own which is special to you.
 
@@ -393,7 +385,7 @@ You should say
 
 and explain why this possession is special to you.
 
-#### Describe an event
+### Describe an event
 
 what, where, who, why?
 
@@ -453,7 +445,7 @@ A few more tips:
 - use my theme vocabulary, but also add your own themes and vocabulary ideas
 - describe what happened step by step, from the beginning to the end of the event
 
-Example question 1
+Example question:
 
 Describe a sports event that you enjoyed watching.
 
@@ -465,7 +457,7 @@ You should say
 
 and expalin why you enjoyed watching it.
 
-Example question 2
+Example question:
 
 Describe a concert or musical event in your country.
 
@@ -477,15 +469,13 @@ You should say
 
 and explain why people attend this musical event.
 
-#### Describe an activity
+### Describe an activity
 
 what, where, who, why
 
 - a hobby
-- a sport
-  swimming
-- a game
-  chess
+- a sport (swimming)
+- a game (chess)
 - something healthy that you do
 - something new that you have done receently
 
@@ -525,7 +515,7 @@ I learned from my losses:
 
 I had one friend who always beat me, but I copied his strategies when playing other people.
 
-Example question 1
+Example question:
 
 Describe something healthy you enjoy doing.
 
@@ -537,7 +527,7 @@ You should say
 
 and explain why you think doing this is healthy.
 
-#### Describe your favourite
+### Describe your favourite
 
 - film or TV programme
 - song / piece of music
@@ -545,11 +535,9 @@ and explain why you think doing this is healthy.
 - website
 - advertisement
 
-Prepare vocabulary
-
-Use ideas from other topics
-
-what, when, where, who, how, why?
+- Prepare vocabulary
+- Use ideas from other topics
+- what, when, where, who, how, why?
 
 what?
 
@@ -565,7 +553,7 @@ why?
 - website: how you use it
 - advertisement: opinions / effect
 
-Prepare vocabulary
+Prepare vocabulary:
 
 Use ideas from other topics
 
@@ -633,7 +621,7 @@ book: novel or non-fiction
 - I learnt about / I found out about
 - it opened my mind to...
 
-Example question 1
+Example question:
 
 Describe a song or piece of music that you like.
 
@@ -657,44 +645,29 @@ and explain why you enjoyed reading this book
 
 ### Questions that don't fit into these 6 main topic areas
 
-Examples
+Examples:
 
 1. Describe an important choice that you had to make
-
 2. Describe an idea you had for improving something at work or college
-
 3. Describe a competition that you took part in
-
 4. Describe a meeting that you went to at work, college or school
-
 5. Describe a time when you were asked for your opinion in a survey
-
 6. Describe a journey that you remember well
-
 7. Describe an open-air or street market that you enjoyed visiting
-
 8. Describe a shop near where you live that you sometimes use
-
 9. Describe a conflict that you had, or a time when you became angry
-
 10. Describe a beautiful sky that you enjoyed looking at
-
 11. Describe an interesting story that someone told you
-
 12. Describe a law in your country that you think is good
-
 13. Describe a local news story that people in your area found interesting
-
 14. Describe a time when you were stuck in traffic or delayed when travelling
-
 15. Describe a time when you helped someone
 
-Advice
+Advice:
 
-2 things that you can do:
+2 things that you can do
 
 1. Adapt your ideas from a main topic
-
    - competition - sport (activity topic)
    - journey - place you visited
    - shop - object or favourite
@@ -703,9 +676,7 @@ Advice
    - local news story - place, concert
    - in traffic or delayed - place
    - when you helped - place, object
-
 2. Talk about your job or studies
-
    - important choice
    - idea at work or college
    - competition
@@ -719,7 +690,7 @@ If none of this advice works...
 
 do your best, tell the truth
 
-## Lesson 10 - Part 3
+## Part 3
 
 Between 3 and 6 questions
 
@@ -729,35 +700,35 @@ This is your final chance to impress the examiner!
 
 We need a method:
 
-follow 3 steps (or sometimes 4)
+- follow 3 steps (or sometimes 4)
+- Force yourself to follow these steps
+- Otherwise your answers won't have 'direction'.
 
-Force yourself to follow these steps
-
-Otherwise your answers won't have 'direction'.
-
-Steps
+Steps:
 
 1. Answer the question directly
 2. Explain your answer (reasons)
 3. Give an example
 4. Explain the opposite / alternative (what would happen if)
 
-Example
+Question:
 
 Do you think that it's better to have clear aims for the future, or is it best to take each day as it comes?
 
-(Answer) I think it's best to have a good idea of what you want to do with your life, especially in terms of studies and career. (Why) Having aims allows you to plan what you need to do today and tomorrow in order to achieve longer term objectives. (Example) For example, if you want to bcome a doctor, you need to choose the right subjects at school, get the right exam results, and work hard at university. (Opposite) Without a clear aim, it would be impossible to take the necessary steps towards a career in medicine, or any other profession.
+Answer:
 
-## Lesson 10 - Summary of advice for all 3 parts of the speaking test
+I think it's best to have a good idea of what you want to do with your life, especially in terms of studies and career. (Why) Having aims allows you to plan what you need to do today and tomorrow in order to achieve longer term objectives. (Example) For example, if you want to bcome a doctor, you need to choose the right subjects at school, get the right exam results, and work hard at university. (Opposite) Without a clear aim, it would be impossible to take the necessary steps towards a career in medicine, or any other profession.
+
+## Summary of advice for all 3 parts of the speaking test
 
 Part 1
 
-Focus on fluency: try not to hesitate, answer quickly, short and simple
+- Focus on fluency: try not to hesitate, answer quickly, short and simple
 
 Part 2
 
-Focus on good vocabulary ideas: prepare for 6 main topic areas
+- Focus on good vocabulary ideas: prepare for 6 main topic areas
 
 Part 3
 
-Focus on structure: answer, explain, example, (alternative)
+- Focus on structure: answer, explain, example, (alternative)

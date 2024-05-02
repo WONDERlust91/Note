@@ -158,7 +158,7 @@
 
 - council n. 议会
 
-  conunsel n. 建议；律师 v. 咨询
+  counsel n. 建议；律师 v. 咨询
 
 - vein n. 静脉；矿脉；性情
 
