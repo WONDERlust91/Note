@@ -484,7 +484,7 @@
 
 - coercion n. 强制或强迫
 
-  cohesion n. 凝聚
+  cohesion n. 凝聚、整体性
 
   coherence n. 逻辑性、一致性；统一性
 
@@ -895,6 +895,14 @@
   illiteracy n. 文盲
 
   illiterate adj. 文盲的 n. 文盲的人
+
+- vise n. 台钳
+
+  advise v. 建议
+
+  devise v. 发明、设计；按遗嘱赠予（房产） n. 将（房产）赠予某人的遗嘱条款
+
+  revise v. 修订、检查修改 n. 修订稿
 
 ## Synonyms
 
