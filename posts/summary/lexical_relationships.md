@@ -904,6 +904,34 @@
 
   revise v. 修订、检查修改 n. 修订稿
 
+- collective adj. 集体性的 n. 团体、合作公司
+
+  collect v. 收集；拿来或拿走；恢复（从震惊中）；总结、推断 n. 简短祈祷
+
+  collection n. 收藏、收集；集合、系列；（时尚行业）服饰系列
+
+- spire n. 塔尖
+
+  aspire v. 渴望
+
+  conspire to vi. 密谋、图谋、阴谋（不好的事）
+
+  conspiracy n. 阴谋、阴谋论
+
+  inspire v. 激发、鼓舞、启发；吸入（空气）
+
+  perspire v. 出汗
+
+  respire v. 呼吸
+
+- account for v. 占居（比例）；解释
+
+  account n. 报告、描述；财报；账户；重要性 v. 考虑、认为
+
+  accountable adj. 负责任的；可理解的
+
+  accountability n. 责任、责任心
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1814,6 +1842,8 @@
 
   reveal v. 揭示、透露 n. 揭秘（影视作品最后揭开的信息）
 
+  revelation n. 揭示（以令人震惊的方式）；启示（超自然的）
+
   rollout n. 揭幕、推出 = unveiling；飞机着陆阶段；（美式足球）一种策略，四分位传球或前进前跑向边线的策略
 
 - “专业”、“课程”相关
@@ -1837,6 +1867,22 @@
   aristocratic adj. 贵族的（重音在 cratic）
 
   aristocracy n. 贵族（重音在 tocracy）
+
+- 表示“缺少”、“不足”
+
+  dearth n. 缺乏、不足
+
+  lack v. n. 缺少
+
+  scarcity n. 缺少
+
+  shortage n. 短缺
+
+  deficiency n. 不足
+
+  insufficiency n. 不足
+
+  inadequacy n. 不足
 
 ## Antonyms
 
@@ -1959,3 +2005,7 @@
 - descend vi. 下降（不及物）
 
   ascend vi. 上升（不及物）
+
+- degrade v. 降级、贬低；降解
+
+  upgrade v. n. 升级
