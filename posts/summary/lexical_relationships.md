@@ -46,6 +46,10 @@
 
   physicist n. 物理学家
 
+  physical adj. 身体的；实体的；物理的 n. 体检
+
+  physique n. 体格；体形
+
 - suicide n. v. 自杀
 
   homicide n. 谋杀
@@ -931,6 +935,12 @@
   accountable adj. 负责任的；可理解的
 
   accountability n. 责任、责任心
+
+- arbitrate v. 仲裁
+
+  arbiter n. 仲裁者
+
+  arbitrary adj. 随意的，肆意的
 
 ## Synonyms
 
@@ -2009,3 +2019,11 @@
 - degrade v. 降级、贬低；降解
 
   upgrade v. n. 升级
+
+- intangible adj. 无形的 n. 无形的东西
+
+  tangible adj. 有形的 n. 有形的东西
+
+- physical store = brick-and-mortar(砖和灰浆) store 实体店
+
+  online store 线上店、网店

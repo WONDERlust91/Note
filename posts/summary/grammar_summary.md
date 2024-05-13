@@ -1046,15 +1046,21 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
 - way 相关词组
 
-  out of the way 不挡道
+  - out of the way 不挡道
 
-  in the way 阻止 get in the way of
+  - in the way 阻止 get in the way of
 
-  in a/one's way 以...方法
+  - in a/one's way 以...方法
 
-  on the/one's way 快到了
+  - on the/one's way 快到了
 
-  by the way 顺便说一下
+  - by the way 顺便说一下
+
+  - v. ones way 一路以 v. 的方式
+
+    You like to play games.
+
+    Do you want to play your way into college?
 
 - Of n., 主谓宾
 
