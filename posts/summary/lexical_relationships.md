@@ -490,7 +490,17 @@
 
   cohesion n. 凝聚、整体性
 
-  coherence n. 逻辑性、一致性；统一性
+  coherence n. 逻辑性、一致性；统一性、团结
+
+  coherence and cohesion 连贯性与一致性
+
+  coherent adj. 有逻辑的，连贯的；统一的、团结的
+
+  inherent adj. 固有的、内在的
+
+  inherit v. 继承
+
+  inheritance n. 继承物
 
 - clutter v. 被杂乱的东西覆盖或填充 n. 杂物、杂乱的状态
 
@@ -539,10 +549,6 @@
 - slap v. 拍击 n. 拍打；化妆 adv. 突然地 adj. 无力的；软的
 
   slip v. 滑动；移动；摆脱 n. 滑动；标准降低；内衬；斜坡；小张纸；陶泥
-
-- inherent adj. 固有的、内在的
-
-  inherit v. 继承
 
 - tailor n. 裁缝；蓝鱼 v. 裁剪；订制
 
@@ -941,6 +947,10 @@
   arbiter n. 仲裁者
 
   arbitrary adj. 随意的，肆意的
+
+- strike struck struck v. 击打；（灾害）发生；想到；（时钟）敲响；摩擦点燃；罢工；删除、划去；冲压；达成一致、同意；发现（矿藏）；大力或有目的地移动；拆除（帐篷）；插入土壤；拉线以固定鱼钩 n. 罢工；突然袭击；矿藏发现
+
+  stroke stroked stroked n. 击打；画线、标记；抚摸；运动（有规律地）；中风 v. 抚摸；划桨；流畅有意的投球
 
 ## Synonyms
 

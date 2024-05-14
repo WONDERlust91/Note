@@ -261,7 +261,7 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
      think of A as B
 
-     值得注意的是，as 后还有跟形容词的特殊情况。
+     值得注意的是，as 后还有跟形容词(adj.)的特殊情况。
 
      I regard you as important.
 
