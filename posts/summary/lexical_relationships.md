@@ -952,6 +952,14 @@
 
   stroke stroked stroked n. 击打；画线、标记；抚摸；运动（有规律地）；中风 v. 抚摸；划桨；流畅有意的投球
 
+- enforce v. 执行
+
+  enforcement n. 执行
+
+  reinforce v. 加强
+
+  reinforcement n. 加强
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1903,6 +1911,26 @@
   insufficiency n. 不足
 
   inadequacy n. 不足
+
+- “放弃”、“摆脱”、“避免”
+
+  avert v. 避开（眼神或想法）；避免（不好的事件）
+
+  abandon v. 抛弃；放弃；放纵 n. 放纵（完全不加限制）
+
+  ditch v. 挖出沟渠；放弃或摆脱；水上迫降 n. 沟渠
+
+  drop v. 丢弃
+
+  discard v. 废弃 n. 弃子
+
+  dispose of 处置掉
+
+  dispose 1. 处置、抛弃；促使、将某人带入特定心态；安排到特定位置
+
+  get rid of 摆脱
+
+  toss v. n. 扔 v. 摇摆
 
 ## Antonyms
 
