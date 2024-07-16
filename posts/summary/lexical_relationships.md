@@ -964,6 +964,14 @@
 
   reinforcement n. 加强
 
+- stun v. 晕眩；震惊
+
+  stunning adj. 极有魅力的；绝妙的；给人以深刻印象的
+
+  stunt v. 阻碍发展；施展特技（尤指空中） n. 特技
+
+  stunt actor 特技演员（替身）
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
