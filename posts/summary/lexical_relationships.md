@@ -188,6 +188,14 @@
 
   transference n. 转移；（心理学）移情
 
+- impact (on) n. v. 强制接触；影响（引申于物体表面强制接触的意思）
+
+  implication n. 暗指、暗示；影响
+
+  affect v. 影响；假装 n. 情感或欲望
+
+  effect (on) n. 效果；布景；个人物品 v. 发生、实现
+
 - affective adj. 情感的（心理学）
 
   defective adj. 有缺陷的；有精神障碍的 n. 有精神障碍的人
@@ -2077,3 +2085,9 @@
 - physical store = brick-and-mortar(砖和灰浆) store 实体店
 
   online store 线上店、网店
+
+- obsolete adj. 过时的
+
+  out-of-date 过时的
+
+  up-to-date 实时的，现在的

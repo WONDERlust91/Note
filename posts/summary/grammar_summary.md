@@ -1355,3 +1355,5 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   9. not least = in particular; notably. 尤其
 
   10. set out 出发旅程；想要做某事；按特定顺序安排或罗列某事
+
+  11. now that 既然（现在已经是这个样子了）
