@@ -980,6 +980,16 @@
 
   stunt actor 特技演员（替身）
 
+- wonder v. 想知道 n. 奇迹
+
+  wander vi. 漫游、游荡（某些时候是贬意）
+
+  wander off 偏离（正道）；游荡
+
+- diary n. 日记
+
+  dairy n. 奶制品
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
