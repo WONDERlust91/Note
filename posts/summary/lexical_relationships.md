@@ -152,6 +152,10 @@
 
   appeal v. n. 呼吁；吸引
 
+  appall v. 惊恐；吓住
+
+  appalling adj. 令人震惊的
+
 - conceive v. 怀孕；设计
 
   deceive v. 欺骗
@@ -510,6 +514,10 @@
 
   inheritance n. 继承物
 
+  inhabit v. 栖息
+
+  inhabitant n. 居民
+
 - clutter v. 被杂乱的东西覆盖或填充 n. 杂物、杂乱的状态
 
   cluster n. 一组、一簇 v. 聚集
@@ -638,8 +646,6 @@
 
 - rupt 词根，表示“断裂” break
 
-  rupture v. （管道、血管、器官）突然破裂；破坏（和谐的气氛）n. 突然破坏的情况；和谐关系的破裂
-
   abrupt adj. 突兀的；简短到唐突的；（语言、文章）不流畅，脱节的；陡峭的
 
   bankrupt adj. 破产的；缺失的 n. 破产 v. 破产
@@ -651,6 +657,8 @@
   erupt v. （火山）喷发；突然爆发；爆发出（笑声、感情等）；突然出现皮疹
 
   interrupt v. 打断（进程或谈话）；阻断（线、平面、视线）连续性
+
+  rupture v. （管道、血管、器官）突然破裂；破坏（和谐的气氛）n. 突然破坏的情况；和谐关系的破裂
 
 - soar v. 高飞；飞涨
 
@@ -765,6 +773,8 @@
   undermine v. 破坏（根基）；削弱
 
   underscore v. 强调
+
+  underway adv. 进行中；（船）在水中移动
 
 - scrape v. 刮掉；削去；挤过；抓取数据（注意该单词发音与下面不同）
 
@@ -989,6 +999,18 @@
 - diary n. 日记
 
   dairy n. 奶制品
+
+- desert n. 沙漠
+
+  dessert n. 甜品
+
+- astronomy n. 天文学（重音在 t）
+
+  astronomer n. 天文学家（重音在 t）
+
+  astronautics n. 航天（重音在 n）
+
+  astronaut n. 宇航员（重音在 n）
 
 ## Synonyms
 
@@ -1400,6 +1422,16 @@
 
   deem
 
+  view
+
+  see
+
+  用法：
+
+  deem/see/view/regard/think/consider A as B
+
+  be deemed/seen/viewed/regarded/thought/considered as sth.
+
 - 表示“淹没”
 
   v. flood
@@ -1668,6 +1700,12 @@
 
   soothe v. 使平静；缓解（痛苦）
 
+  ease n. 轻松 v. 缓解；小心地移动
+
+  relieve v. 缓解（痛苦）；换防；接替（负担）；（引入多样性）减少乏味；排便
+
+  mitigate v. 减轻、缓解
+
 - 表示“狭小”、“拥挤”
 
   cramped adj. 空间上的狭小、拥挤
@@ -1902,6 +1940,8 @@
 
   revelation n. 揭示（以令人震惊的方式）；启示（超自然的）
 
+  uncover v. 揭露、拆穿
+
   rollout n. 揭幕、推出 = unveiling；飞机着陆阶段；（美式足球）一种策略，四分位传球或前进前跑向边线的策略
 
 - “专业”、“课程”相关
@@ -1961,6 +2001,68 @@
   get rid of 摆脱
 
   toss v. n. 扔 v. 摇摆
+
+- “医学”相关
+
+  metabolism n. 新陈代谢
+
+  cholesterol n. 胆固醇
+
+  diabetes n. 糖尿病（天生有 s）
+
+  insulin n. 胰岛素
+
+  hormone n. 荷尔蒙、激素
+
+- “君主”相关
+
+  reign v. 统治
+
+  monarch n. 君主、帝王
+
+  sovereign n. 君主 adj. 有主权的、有至高无尚的权力的
+
+- “尊重”相关
+
+  esteem v. n. 尊重、敬重、崇敬
+
+  revere v. 尊敬、景仰
+
+  reverence n. 尊敬、景仰
+
+  这两个词比 respect 程度更深
+
+  respect n. 尊重；体贴；方面 v. 尊重，遵守
+
+  deference n. 尊重
+
+  deferential adj. 恭敬的
+
+  prestige n. 名望
+
+  prestigious adj. 德高望重的
+
+  worship v. 崇拜、敬仰、礼拜
+
+- “神圣的”
+
+  sacred adj. 上帝的、神的、神圣的
+
+  holy adj. 与神（或宗教）有关的、神圣的
+
+  holiness n. 神圣、圣洁
+
+- “遗迹”、“遗产”
+
+  relic n. 遗物、遗迹
+
+  cultural relic
+
+  heritage n. 遗产（国家或社会长期形成的历史、传统和特色）
+
+  cultural heritage
+
+  Natrual heritage
 
 ## Antonyms
 
@@ -2101,3 +2203,13 @@
   out-of-date 过时的
 
   up-to-date 实时的，现在的
+
+- dormant adj. 冬眠的；休眠的
+
+  active adj. 活动的；积极的
+
+- assemble v. 组装
+
+  assembly line 生产线
+
+  dissemble v. 拆卸
