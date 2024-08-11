@@ -10,6 +10,8 @@
 
   conversation n. 会话。
 
+  convention n. 惯例、习俗；会议
+
   preserve v. 保持；维持 n. 果酱；保留地
 
   preservation n. 保存
@@ -18,9 +20,17 @@
 
 <!-- more -->
 
-- constitute v. 组成，依法设立
+- constituent adj. 部分的；有选举权的 n. 部分；（选区的）选民、选举人
 
-  constitution n. 宪法，组成，身体状态
+  constituency n. 选区（的全体选民）
+
+  constitute v. 构成；依法设立
+
+  constipation n. 便秘
+
+  constitution n. 宪法；组成；体质、健康状态
+
+  constitutional adj. 宪法的；体质的
 
   destitute adj. 极度贫困（不常用）
 
@@ -140,6 +150,8 @@
 
   comprehensive adj. 全面的；综合性的（学校） n. 综合学校
 
+  rounded adj. 圆的；全面的
+
   comprehend v. 理解；包括，涵盖
 
 - assemble v. 聚集；组合
@@ -182,9 +194,15 @@
 
 - distinct adj. 不同的；易区分的
 
+  instinct n. 本能；直觉 adj. 充满（好的品质）
+
   extinct adj. 灭绝的；火山未爆发过的
 
-  instinct n. 本能；直觉 adj. 充满（好的品质）
+  extinction n. 灭绝
+
+  extinguish v. 使熄灭
+
+  extinguisher n. 灭火器
 
 - deference n. 尊重
 
@@ -193,6 +211,8 @@
   transference n. 转移；（心理学）移情
 
 - impact (on) n. v. 强制接触；影响（引申于物体表面强制接触的意思）
+
+  compact adj. 紧密的 v. 压实；达成协议 n. 化妆粉盒（有镜子和粉扑）；紧凑型、袖珍款；压塑（冶金）；协议、合同
 
   implication n. 暗指、暗示；影响
 
@@ -1012,6 +1032,62 @@
 
   astronaut n. 宇航员（重音在 n）
 
+- economy n. 经济 复数 economies n. 经济体
+
+  economic adj. 经济相关的
+
+  economical adj. 实惠的
+
+  economist n. 经济学家
+
+- cooperate v. 合作
+
+  corporate n. 法人公司或集团 adj. 公司相关的
+
+  incorporate v. 包含、合并；成立公司
+
+- contempt v. 鄙视
+
+  tempt v. 引诱
+
+  temptation n. 诱惑
+
+  contemplate v. 沉思
+
+  template n. 模板；支板
+
+  temporary adj. 临时的 n. 临时工
+
+  attempt v. 试图 n. 尝试
+
+  temperature n. 温度
+
+  temperate adj. 适度的、温和的、温带的
+
+  temperament n. 气质
+
+  temperamental adj. 喜怒无常的；气质上的
+
+  temple n. 寺庙；两鬓
+
+  temper n. 脾气；金属的硬度与韧性 v. 锻造（提升金属硬度与韧性以锻烧和淬火的方式）；平衡、中和；调音（乐器）
+
+- favoritism n. 偏袒（favoritism and nepotism 偏袒与裙带关系）
+
+  favorite adj. 最喜欢的 n. 受欢迎的事物 v. 收藏（记录网址以便快速访问）
+
+  favor n. 赞同、支持、喜欢（with favor）；善意行为、帮忙 v. 赞同、支持、喜欢；给予（帮助）（常用于礼貌请求帮助，Please favor me with sth.）；轻柔地对待（受伤的肢体）
+
+- conscience n. 良知（注意发音：ˈkänSHəns）
+
+  conscientious adj. 有良知的、尽责的（尤指在工作上）
+
+  conscientiousness n. 尽责
+
+  conscious adj. 有意识的（注意发音：ˈkänSHəs）
+
+  consciousness n. 意识
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1550,7 +1626,7 @@
 
 - 表“嘲笑”、“蔑视”、“愚弄”
 
-  comtempt n. 轻视
+  contempt n. 轻视
 
   redicule v.n. 蔑视、贬低
 
@@ -1756,6 +1832,8 @@
 
   verdict n. 判决书、裁决
 
+  conviction n. 定罪（法庭语境）；信念
+
   jail sentence n. 入狱的刑罚
 
   death sentence n. 死刑
@@ -1764,6 +1842,8 @@
 
   prosecutor n. 检查官（律师，但代表国家或政府，起诉某人）
 
+  prosecution n. 上诉
+
   lawyer n. 律师（代表个人）
 
   justice n. 美国最高法院法官（共有 9 人，首席为 chief justice）
@@ -1771,6 +1851,10 @@
   judge n. 普通法官 v. 判断；判决
 
   jury n. 陪审团
+
+  bribery n. 行贿
+
+  bribe v. 贿赂；收买 n. 贿金
 
   defendant n. 被告
 
@@ -1898,14 +1982,6 @@
 
   mock v. 嘲笑、愚弄 adj. 模拟的、仿造的（无恶意）
 
-- “名望”、“声望”
-
-  renown n. 名誉、声望（被很多人知道，褒义）
-
-  prestige n. 声望（褒义）
-
-  reputation n. 名声（可能有好有坏）
-
 - “发生”
 
   happen
@@ -2022,7 +2098,7 @@
 
   sovereign n. 君主 adj. 有主权的、有至高无尚的权力的
 
-- “尊重”相关
+- “尊重”、“名望”相关
 
   esteem v. n. 尊重、敬重、崇敬
 
@@ -2034,15 +2110,19 @@
 
   respect n. 尊重；体贴；方面 v. 尊重，遵守
 
+  worship v. 崇拜、敬仰、礼拜
+
   deference n. 尊重
 
   deferential adj. 恭敬的
 
-  prestige n. 名望
+  prestige n. 名望（褒义）
 
   prestigious adj. 德高望重的
 
-  worship v. 崇拜、敬仰、礼拜
+  renown n. 名誉、声望（被很多人知道，褒义）
+
+  reputation n. 名声（可能有好有坏）
 
 - “神圣的”
 
@@ -2063,6 +2143,14 @@
   cultural heritage
 
   Natrual heritage
+
+- “原木”、“木材”
+
+  log n. 原木；记录本 v. 伐木；记录
+
+  timber n. 木材
+
+  lumber v. 笨重地移动 v. 加工木材；增加负担 n. 木材（已粗加工为板或条状）；没用的家具、杂物
 
 ## Antonyms
 
