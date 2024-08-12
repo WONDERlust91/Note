@@ -52,7 +52,13 @@
 
   device n. 设备
 
-- physician n. 医生
+- physician n. 内科医生
+
+  surgeon n. 外科医生
+
+  court physician 宫廷医生
+
+- physician n. （内科）医生
 
   physicist n. 物理学家
 
@@ -1088,6 +1094,44 @@
 
   consciousness n. 意识
 
+- expedite v. 加快（重音在 ex）
+
+  expedition n. 远征、考察；（做事的）及时性
+
+- remold v. 改造、重塑
+
+  remodel v. 改造、翻修（尤指房子）
+
+- lay v. 放置；下蛋；跟随（特定的轨迹）；lie 的过去式 n. 一个区域的总体外观、环境（the lay of the countryside）；产蛋期间；短诗 adj. 非神职的；外行的（lay and professional）
+
+  delay v. n. 延迟
+
+  inlay v. 镶嵌（以装饰） n. 镶嵌物；镶嵌设计
+
+  overlay v. 覆盖；（品质或感受）变得更突出；overlie 过去式 n. 覆盖物；（计算机术语）覆盖（内存）
+
+  relay n. 接力；继电器；（电视）中继 v. 转发、转接（信息、信号）
+
+  rally v. （部队）集结；恢复（健康）；开拉力赛 n. 大规模集会（表达政治支持或反对）；拉力赛；恢复；相持（体育比赛中双方持续互相击球，未得分）
+
+  unlay v. （航海术语）解开（绳子成单股）
+
+- -struct 后缀 建造
+
+  construct v. 建造 n. （未经证实的）想法、理论
+
+  construction n. 建造
+
+  destruct v. 毁坏
+
+  instruct v. 指示、教导、告知
+
+  instructor n. 指导者
+
+  structure n. 结构 v. 构建
+
+  obstruct v. 阻碍
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1456,7 +1500,15 @@
 
   exacerbate v. 恶化
 
-  aggravate v. 加剧，恶化 = deteriorate/exacerbate；惹怒 = exasperate
+  aggravate v. 加剧、恶化 = deteriorate/exacerbate；惹怒 = exasperate
+
+- “激怒”
+
+  aggravate v. 加剧、恶化；惹怒
+
+  exasperate v. 激怒
+
+  infuriate v. 激怒
 
 - 表示“依赖...生活”
 
@@ -1760,7 +1812,7 @@
 
   pitch 运动场地（草地，如足球场）
 
-  court 运动场地（硬地，胶地等，如篮球场）
+  court n. 法庭；运动场地（硬地，胶地等，如篮球场）；朝廷、宫廷
 
   stadium 体育馆（指体育馆建筑本身，里面的场地可以是前两者任意一个）
 
@@ -1875,6 +1927,8 @@
   White House/Administration 指 President 总统（行政权，可否定立法、推举法官）
 
   Capitol Hill/Hill 指 Congress 国会（立法权，可弹劾总统、法官）（Capitol 是国会的标志性建筑）
+
+  court n. 法庭；球场；朝廷、宫廷
 
   Supreme Court 最高法（执法权，可否决行政命令和立法）
 
@@ -2070,9 +2124,13 @@
 
   discard v. 废弃 n. 弃子
 
+  dispose v. 处置（以避免某种结果）、抛弃；促使、将某人带入特定心态；安排到特定位置
+
   dispose of 处置掉
 
-  dispose 1. 处置、抛弃；促使、将某人带入特定心态；安排到特定位置
+  disposal n. 处置；变卖资产；安排、部署
+
+  at one's disposal 任某人使用、支配
 
   get rid of 摆脱
 
@@ -2098,7 +2156,7 @@
 
   sovereign n. 君主 adj. 有主权的、有至高无尚的权力的
 
-- “尊重”、“名望”相关
+- “尊重”、“钦佩”、“名望”相关
 
   esteem v. n. 尊重、敬重、崇敬
 
@@ -2115,6 +2173,12 @@
   deference n. 尊重
 
   deferential adj. 恭敬的
+
+  admire v. 钦佩（重音在 mi）
+
+  admirable adj. 令人钦佩的（重音在 ad）
+
+  adore v. 崇拜
 
   prestige n. 名望（褒义）
 
