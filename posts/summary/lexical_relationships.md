@@ -272,6 +272,8 @@
 
 - complement n. 补充；（补充的）量；（几何）余角；（数学）补集；（语法）补语；（医学）补体 v. 补充；补完
 
+  compliment v. n. 赞扬
+
   implement n. 器具 v. 实现；施行
 
   supplement n. 补充；（几何）补角 v. 补贴；补充
@@ -758,6 +760,18 @@
 
   extensive adj. 大面积的；大量的；（农业）大规模低成本
 
+- dispense v. 分配或提供（服务或信息）；摆脱
+
+  dispense with 摒弃、不再需要
+
+  dispensable adj. 可有可无的
+
+  indispensable adj. 必不可少的
+
+  expense n. 花费 v. （某项支出）抵减（应税收入）
+
+  suspense n. 悬念；（法律上）暂停某事
+
 - crouch v. 蹲 n. 蹲的动作
 
   crunch v. 嚼碎并发出咔嚓声、发出嘎吱声（尤其是走在碎石地或雪地中）、发出大声的击打；处理大量的数据或信息 n. 嚼碎或击打发出的沉闷摩擦声音；需要做出决定的关键时刻、信贷或资金的严重短缺；仰卧起坐
@@ -792,9 +806,11 @@
 
   statue n. 雕塑
 
-- underlie v. 奠定
+- underlie v. 奠定基础；在...之下
 
-  underline n. 下划线 v. 强调
+  underlying adj. 基础的（但不明显）；在下面的 v. uderlie 现在分词
+
+  underline n. 下划线 v. 强调 = highlight v. 高亮
 
   undermine v. 破坏（根基）；削弱
 
@@ -1131,6 +1147,22 @@
   structure n. 结构 v. 构建
 
   obstruct v. 阻碍
+
+- raise v. 提升、增加；产生；收集、征收；抚养；复活；放弃（围困、封锁）；（海上的人）看到（陆地或船）
+
+  rise v. 上升；站起来（物理意义和精神意义都有）；（河流）发源于；快要到达（某个年龄）（She was 39 rising 40. 她 39 快 40 了） n. 上升；发源地
+
+  arise v. 出现、发生（=happen/occur/come about/take place/appear/emerge）；起床
+
+  arouse v. 唤起、唤醒 = evoke/awaken
+
+- gaze v. n. 凝视
+
+  graze vi. 吃青草 vt. 放牧；擦伤 n. 擦伤
+
+- exhibit （注意发音：iɡˈzibət） v. 展示；故意表现 n. 藏品、展品、陈列品
+
+  exhibition （注意发音：ˌeksəˈbiSHən） n. 展览；展示；表演赛
 
 ## Synonyms
 
@@ -1608,7 +1640,7 @@
 
   migrate v. 迁徙（无国家概念）
 
-  migrant n. 迁徙者（外地打工）
+  migrant n. 迁徙者（外地打工） adj. 迁徙的
 
 - 法官
 
@@ -1656,15 +1688,27 @@
 
   devastate v. 损毁
 
+  undermine v. 破坏（根基）；削弱
+
   ruin n. 废墟 v. 摧毁
 
   wreck n. 失事 v. 击毁
 
-- 除了
+- “除了”
 
-  other than
+  apart from/aside from 既能表示“除了...以外”，也能表示“除了...还有”
 
-  except for
+  other than 除了...以外
+
+  except for 除了...以外
+
+  except 除了...以外
+
+  beyond prep. 除了...以外
+
+  beside prep. 在旁边；除了...还有
+
+  besides prep. 除了...还有 adv. 况且
 
 - 表“占据思想”、“痴迷”、“被支配”
 
@@ -1720,7 +1764,7 @@
 
   compromise n. 妥协 v. 妥协；损害；削弱
 
-- 表“严重的”、“严峻的”、“严苛的”
+- 表“严重的”、“严峻的”、“严苛的”、“激烈的”
 
   serious adj. 严格的；严肃的；严重的；大量的
 
@@ -1731,6 +1775,10 @@
   acute adj. 严重的；急性的；尖锐的
 
   harsh adj. 令人不快的；残酷或严重的
+
+  drastic adj. 强烈或深远影响的、激进、极端的
+
+  extreme adj. 极端的 n. 极端
 
   grim adj. 极其严重或阴沉；（某地）令人生畏或无吸引力
 
@@ -2048,6 +2096,10 @@
 
   arise
 
+  appear
+
+  emerge
+
 - 表“补助”、“福利”
 
   benefit n. 福利（社会、工作环境等，福利的总称）；利益
@@ -2080,7 +2132,7 @@
 
   major n. 专业（科目下的细分，例如：数学 subject 下的应用数学 major）
 
-  curriculum n. 课程系列（一个专业需要修的一系列课程统称，例如应用数学专业要修数学分析、线性代数等等课程，所有课程统称 curriculum）复数是 curricular
+  curriculum n. 课程体系（一个专业需要修的一系列课程统称，例如应用数学专业大学 4 年要修数学分析、线性代数等等课程，所有课程统称 curriculum）复数是 curricular
 
   course n. 一门课程（一系列课程中的一门课，例如：高等数学或线性代数）
 
@@ -2215,6 +2267,32 @@
   timber n. 木材
 
   lumber v. 笨重地移动 v. 加工木材；增加负担 n. 木材（已粗加工为板或条状）；没用的家具、杂物
+
+- “推翻”、“颠覆”
+
+  upend v. 翻过来（物理上）
+
+  overturn v. 翻过来（物理上）；推翻、废除（之前的发现、决定、情况等）
+
+  subvert v. 推翻、颠覆（权力和统制）
+
+- “培养”、“养育”
+
+  bring up 养育
+
+  care for 照顾
+
+  take care of 照顾
+
+  raise v. 提升、增加；产生；收集、征收；抚养；复活；放弃（围困、封锁）；（海上的人）看到（陆地或船）
+
+  foster v. 培养；养育 adj. 养育的（foster parent 养父母）
+
+  rear adj. 后面的、后部的 n. 后面；后部 v. 养育；（马或其它动物）用后腿直立（通常是受惊时）
+
+  nurture v. 养育 n. 培养
+
+  cultivate v. 培植、耕种；培养（品质或技能）
 
 ## Antonyms
 
