@@ -2294,6 +2294,32 @@
 
   cultivate v. 培植、耕种；培养（品质或技能）
 
+- “地图”相关
+
+  junction n. （公路或铁路的）交叉路口、汇合处、枢纽站
+
+  bend v. 弯曲 n. 弯道、拐弯
+
+  side road n. 辅路；支路；小巷子
+
+  pedestrian n. 行人、步行者
+
+  cross v. 跨过 n. 人行横道
+
+  pavement n. 路面；人行道
+
+  congestion n. 堵塞
+
+  traffic congestion/jam 交通堵塞
+
+  park n. 公园 v. 停车
+
+  parking n. 停车
+
+  lorry n. 大卡车
+
+  pick-up track n. 皮卡
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的
