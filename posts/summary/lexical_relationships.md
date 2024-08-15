@@ -1164,6 +1164,26 @@
 
   exhibition （注意发音：ˌeksəˈbiSHən） n. 展览；展示；表演赛
 
+- mission n. 任务；使命
+
+  admission n. 承认；允许加入、准入
+
+  commission n. 任务；委员会；佣金；任命书；犯罪行为 v. 授权生产；使正常工作、调试；任命
+
+  demission n. 辞职
+
+  emission n. 排放
+
+  omission n. 遗漏
+
+  permission n. 允许
+
+  remission n. 撤消、豁免、（病痛）缓解
+
+  submission n. 屈服；提交
+
+  transmission n. 传播；（动力）传动
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
