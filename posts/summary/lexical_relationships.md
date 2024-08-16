@@ -464,15 +464,27 @@
 
 - allude v. 暗示；提及
 
+  allusive adj. 暗示的
+
   conclude v. 结束；总结
+
+  conclusive adj. 确凿的
 
   delude v. 欺骗
 
+  delusive adj. 误导的
+
   elude v. 逃避；难倒；困扰
+
+  elusive adj. 难以找寻的、难以实现的
 
   exclude v. 排除
 
+  exclusive adj. 排他的；独家的；高贵的 n. 独家消息
+
   include v. 包括
+
+  inclusive adj. 全包含在内的；包容的
 
   prelude n. 简介，序曲，前奏 v. 作为前奏，预示着
 
@@ -906,13 +918,19 @@
 
   deprive v. 剥夺
 
-- overlook v. 忽视
+- overlook v. 俯视、忽视
+
+  oversee v. 监管
 
   overstep v. 越过、超过
 
   outweigh v. 超过的（更重的）
 
-  overturn v. 推翻；撤销（裁决等）
+  overturn v. 翻过来（物理上）；推翻、废除（之前的发现、决定、情况等）
+
+  overlay v. 覆盖；（品质或感受）变得更突出；overlie 过去式 n. 覆盖物；（计算机术语）覆盖（内存）
+
+  overflow v. 淹没
 
 - nuisance n. 麻烦事、讨厌的人（或东西）
 
@@ -1222,27 +1240,43 @@
 
      - prep. despite
 
-- 与“大”相关的形容词
+- “大”、“大量的”、“极大地”
 
-  adj. big
+  big adj. 大的；重要的；慷慨的
 
-  adj. enormous
+  enormous adj. （尺寸、数量、范围）很大的
 
-  adj. huge
+  huge adj. 极大的
 
-  adj. giant
+  giant n. 巨人；超大超亮的恒星 adj. 巨大的
 
-  adj. gargantuan
+  gargantuan adj. 庞大的
 
-  adj. gigantic
+  gigantic adj. （尺寸或范围）巨大的
 
-  adj. vast
+  vast adj. （数量或范围）极大的、广阔的
 
-  adj. titanic
+  immense adj. 极大（尤指规模或程度）
 
-  adj. considerable
+  titanic adj. 有非凡力量、尺寸或力量的；四价钛的
 
-  adj. mammoth
+  mammoth n. 猛犸象 adj. 巨大的
+
+  considerable adj. 在尺寸、数量、范围上尤其大
+
+  abundant adj. 丰沛的、大量（存在或可用）的
+
+  ample adj. 充足的
+
+  numerous adj. （数量）很多的
+
+  plentiful adj. 充沛的；大量（存在或生产）的
+
+  substantial adj. 重大的；本质的；实体的
+
+  drastically adv. 强烈或深远影响的、极大的
+
+  dramatically adv. 戏剧性的；程度惊人的、极大的
 
 - 表示“关于”、“涉及到”、“谈论到”的词组(里面所有 to 都是介词)
 
@@ -1579,18 +1613,6 @@
   yacht n. 游艇 v. 乘游艇
 
   raft n. 木筏；漂浮物；大量的 v. 乘坐木筏；将船绑在一起
-
-- 表示“大量的”
-
-  abundant
-
-  ample
-
-  numerous
-
-  plentiful
-
-  considerable
 
 - 表示“认为”
 
@@ -1988,7 +2010,7 @@
 
   statute n. 成文法、法令、法规
 
-  overturn v. 推翻；撤销（裁决等）
+  overturn v. 翻过来（物理上）；推翻、废除（之前的发现、决定、情况等）
 
   legitimate adj. 合法的 v. 使合法、合法化
 
@@ -2340,6 +2362,24 @@
 
   pick-up track n. 皮卡
 
+- “边缘”
+
+  edge n. 边缘；刀刃；优势 v. 以...为边缘；小心地移动；使紧张、尖锐
+
+  verge n. 边缘；权杖 v. 接近、相似；倾向
+
+  brink n. 边缘
+
+  fringe n. （区域或组织的）边缘；花边、流苏 adj. 非常规的、非主流的、外围的 v. 用花边装饰
+
+  on the verge/brink/edge of
+
+- “相同于”、“等同于”
+
+  amount to sth.
+
+  the same as sth.
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的
@@ -2489,3 +2529,7 @@
   assembly line 生产线
 
   dissemble v. 拆卸
+
+- fiscal adj. 财政的
+
+  monetary adj. 货币的

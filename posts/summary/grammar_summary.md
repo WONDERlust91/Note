@@ -40,7 +40,11 @@
 
 - 关系连词（非问句，问句中叫关系副词）：when/if/who/how/although/though/while/yet
 
-- 时间词可以当作关系连词
+- 时间概念的词，可以做时间关系连词，跟 when 的作用相同，后面可跟完整句子，整体做主句的状语或解释说明
+
+  the 10th straight year 起 when 的作用，作连词
+
+  It reported a net loss of $5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue.
 
   I finished my homework **(in) the day** you came to our school.
 
@@ -1008,7 +1012,7 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
   这里要注意不能理解为 have sth to do，不是有某种能力再去做某事，而是 ability to do，有做某事的能力。
 
-- 时间加完整句子作状语：时间 + 主谓宾, 主谓宾.
+- 时间（作关系连词）加完整句子，整体作主句的状语或解释说明：时间 + 主谓宾, 主谓宾.
 
   Every time
 
