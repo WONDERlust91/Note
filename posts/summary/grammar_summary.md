@@ -287,7 +287,7 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
      as to = in terms of 介词
 
-     as though = like 就好像（字面翻译：就像尽管）你数学不及格，就像没学过一样（You failed in math exam. It is as though you've never learned math.）
+     as if/though = like 仿佛、似乎、就好像（字面翻译：就像如果、就像尽管）你数学不及格，就像没学过一样（You failed in math exam. It is as though you've never learned math.）
 
    - as ... as 中间可以是任何成分，视句子结构而定。
 
@@ -320,7 +320,7 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
 3. yet
 
-   - 句首的 yet 等于 but，表转折，译为“尽管”
+   - 在句首，词性为 conj.或 adv. = but，表转折，译为“尽管”、“但是”
 
      yet 状语从句套 while 状语从句的情况（本质就是英语的完整句子可以无限套娃）
 
@@ -332,13 +332,17 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
      句子 2 以主句为主，因此，“句子 1”与“主句”是转折关系，“分句”与“主句”亦是转折关系，但“句子 1”与“分句”无关系，因为两个转折可以从不同的方面进行。
 
-   - 用在肯定句中，表否定，当作 not
+   - 在肯定句中，词性为 adv. = not，表否定
 
-   - 用在否定或疑问句，表示直到现在或某个时间点，译为还没
+   - 在否定或疑问句中，词性为 adv. 表示直到现在或某个时间点，译为“还没”
 
    - yet another = another
 
      yet further = further
+
+     yet more = more
+
+     yet 表示更加
 
 4. 与其他从句的嵌套
 
@@ -1361,3 +1365,11 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   10. set out 出发旅程；想要做某事；按特定顺序安排或罗列某事
 
   11. now that 既然（现在已经是这个样子了）
+
+  12. A feed on B. A 以 B 为食
+
+      A live on/off B. A 靠 B 活
+
+      feed v. 喂养；使逐渐穿过（受限空间） n. 喂养；向机器输送原材料的设备或导管；给舞台演员的提词
+
+      live v. 保持活着；安家、生活 adj. 活着的；现场的（非录音的）；接电源的；热点（话题）的 adv. 直播地

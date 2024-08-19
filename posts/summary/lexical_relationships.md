@@ -252,6 +252,8 @@
 
 - affine adj. （数学）仿射 n. （人类学）婚姻产生的亲戚
 
+  confine v. 限制（在某个范围）（及物）（be confined to 被限制在某个范围）（confine A to B 限制 A 在 B 的范围里） n. 范围、界限
+
   define v. 定义；界定
 
   refine v. 提炼；改进
@@ -1306,6 +1308,16 @@
 
   spectrum n. 光谱；范围、分类
 
+- prominence n. 出名、突出（概念上的突出）；突出（物理上突出）
+
+  eminence n. 名声、成就；上升的地面
+
+  preeminence n. 优势、超越所有人的事实
+
+  dominance n. 影响力、统制力
+
+  predominance n. 占主导地位
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1378,9 +1390,35 @@
 
   substantial adj. 重大的；本质的；实体的
 
-  drastically adv. 强烈或深远影响的、极大的
+  drastic adj. 强烈或深远影响的、激进、极大的
 
-  dramatically adv. 戏剧性的；程度惊人的、极大的
+  drastically adv. 强烈或深远影响地、极大地
+
+  dramatic adj. 戏剧性的；令人震惊的、极大的
+
+  dramatically adv. 戏剧性地；程度惊人地、极大地
+
+- 表“严重的”、“严峻的”、“严苛的”、“激烈的”
+
+  serious adj. 严格的；严肃的；严重的；大量的
+
+  severe adj. 严重的；严格的；普通的
+
+  dreadful adj. 可怕的；极其严重的
+
+  acute adj. 严重的；急性的；尖锐的
+
+  harsh adj. 令人不快的；残酷或严重的
+
+  drastic adj. 强烈或深远影响的、激进、极端的
+
+  extreme adj. 极端的 n. 极端
+
+  grim adj. 极其严重或阴沉；（某地）令人生畏或无吸引力
+
+  fierce adj. 凶猛的；猛烈的
+
+  rigorous adj. 严苛的
 
 - 表示“关于”、“涉及到”、“谈论到”的词组(里面所有 to 都是介词)
 
@@ -1914,28 +1952,6 @@
 
   compromise n. 妥协 v. 妥协；损害；削弱
 
-- 表“严重的”、“严峻的”、“严苛的”、“激烈的”
-
-  serious adj. 严格的；严肃的；严重的；大量的
-
-  severe adj. 严重的；严格的；普通的
-
-  dreadful adj. 可怕的；极其严重的
-
-  acute adj. 严重的；急性的；尖锐的
-
-  harsh adj. 令人不快的；残酷或严重的
-
-  drastic adj. 强烈或深远影响的、激进、极端的
-
-  extreme adj. 极端的 n. 极端
-
-  grim adj. 极其严重或阴沉；（某地）令人生畏或无吸引力
-
-  fierce adj. 凶猛的；猛烈的
-
-  rigorous adj. 严苛的
-
 - substitute n. 替代品；替代者；副职 v. 代替
 
   deputy n. 副职
@@ -2118,17 +2134,25 @@
 
   statute n. 成文法、法令、法规
 
+  initiative n. 主观能动性；先机；倡议；法案（法律环境）
+
   overturn v. 翻过来（物理上）；推翻、废除（之前的发现、决定、情况等）
+
+  overrule v. 否决、驳回、废止（利用上级权力拒绝或不允许）
 
   legitimate adj. 合法的 v. 使合法、合法化
 
   White House/Administration 指 President 总统（行政权，可否定立法、推举法官）
 
-  Capitol Hill/Hill 指 Congress 国会（立法权，可弹劾总统、法官）（Capitol 是国会的标志性建筑）
+  Capitol Hill/Hill 指 Congress 国会（由众议院和参议院组成）（立法权，可弹劾总统、法官）（Capitol 是国会的标志性建筑）
 
-  court n. 法庭；球场；朝廷、宫廷
+  House 大写常指美国国会众议院 the House of Representative
+
+  Senate 参议院
 
   Supreme Court 最高法（执法权，可否决行政命令和立法）
+
+  court n. 法庭；球场；朝廷、宫廷
 
 - 表示“强调”
 
@@ -2497,6 +2521,16 @@
   pledge n. v. 承诺；（法律）质押；祝酒（为健康）
 
   commitment n. 承诺、（对事业的）致力；（限制行动自由的）义务、责任
+
+- “公平”、“使公平”
+
+  even adj. 平整光滑的；相等的、平衡的、公平的；偶数的 v. 使平滑；使相等、使公平 adv. 强调惊讶或极端 n. 晚上；西伯利亚原住民
+
+  level n. 水平线；等级、水平；水平仪；一块平坦的土地 adj. 平坦的；平齐的、公平的；平静的 v. 使平坦；使平齐、使公平；瞄准（level at = aim at）
+
+  even/level(adj.) playing field 公平竞赛环境
+
+  level(v.) the playing field 维持公平竞争的环境
 
 ## Antonyms
 
