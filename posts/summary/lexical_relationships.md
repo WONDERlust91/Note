@@ -18,6 +18,10 @@
 
   preservative n. 防腐剂 adj. 保留的
 
+  reserve v. 保留（未来使用） n. 储量；后备军；替补球员；冷淡的态度
+
+  reservation n. 保留、预订；保留意见（保留了支持或反对的资格）；原住民的保留地；
+
 <!-- more -->
 
 - constituent adj. 部分的；有选举权的 n. 部分；（选区的）选民、选举人
@@ -1168,7 +1172,7 @@
 
 - raise v. 提升、增加；产生；收集、征收；抚养；复活；放弃（围困、封锁）；（海上的人）看到（陆地或船）
 
-  rise v. 上升；站起来（物理意义和精神意义都有）；（河流）发源于；快要到达（某个年龄）（She was 39 rising 40. 她 39 快 40 了） n. 上升；发源地
+  rise v. 上升（不及物，sth. rises）；站起来（物理意义和精神意义都有）；（河流）发源于；快要到达（某个年龄）（She was 39 rising 40. 她 39 快 40 了） n. 上升；发源地
 
   arise v. 出现、发生（=happen/occur/come about/take place/appear/emerge）；起床
 
@@ -1201,6 +1205,106 @@
   submission n. 屈服；提交
 
   transmission n. 传播；（动力）传动
+
+- consequent adj. 后续作为结果的 = resultant/resulting
+
+  eloquent adj. 流利有说服力的（演讲或写作）
+
+  frequent adj. 频繁的 v. 经常去
+
+  subsequent adj. 后续的 = following
+
+  sequent adj.(ARCHAIC) 后续按顺序或有逻辑的
+
+- attain v. 实现、达到
+
+  certain adj. 确定的；具体的 pron. 一些但不是全部 certain of sth.
+
+  contain v. 有、包含；控制、抑制（自己或感受）
+
+  detain v. 扣留、阻止
+
+  fountain n. 喷泉；泉水 v. 喷射
+
+  mountain n. 山
+
+  obtain v. 获得；变得普遍、习惯、既定
+
+  pertain v. 相关、适用
+
+  retain v. 保有；吸收保存；保持（位置）固定；保持雇佣
+
+  stain v. 弄脏、污染、玷污；染色 n. 污渍；染料
+
+  sustain v. 支持（物质或精神上）；经历（不好的事）；持续、维持；确认有效或正义 n. （音乐）延音（踏板或设备）
+
+- attend v. 出席；处理、照看、注意；护送、伴随（以提供协助）be attended by sb. 被某人护送；伴随或导致（结果） be attended by sth. 伴随着某事、导致某事
+
+  contend v. 努力克服、抗衡；断言、争论
+
+  extend v. 延伸；伸出（手）；竭尽全力
+
+  intend v. 打算；有意设计
+
+  pretend v. 假装；声称 adj. 假装的、想象中的（用于游戏或描述）
+
+  tend v. 趋向；照顾、关照
+
+- attention n. 注意力；注意；（军事）立正
+
+  contention n. 争端、分歧；论点、断言
+
+  detention n. 拘留
+
+  intention n. 意图、打算；（医药）伤口愈合的过程
+
+  obtention n. 获得
+
+  retention n. 保留、保持、保有
+
+- content adj. 满意（重音在 tent） v. 使满意（重音在 tent） n. 满意（重音在 tent）；内容（重音在 con）
+
+  detent n. 棘爪、锁止机构
+
+  extent n. 区域、范围、程度
+
+  intent n. 意图、目的 adj. 决心做的（be intent on sth.）；专注的
+
+  latent adj. 潜在的、潜藏的
+
+  patent n. 专利；漆皮 adj. 明显的、易发现的；（医药）（血管等）开放、未关闭的；专利的 v. 取得专利
+
+  tent n. 帐篷；西班牙深红甜酒；（手术）保持开口的可吸收材料 v. 搭帐篷；住帐篷
+
+- electric adj. 带电的
+
+  electronic adj. 电子的
+
+- thorn n. （玫瑰之类植物的）剌、棘刺；山楂（带刺的灌木）
+
+  thorny adj. 棘手的、麻烦的
+
+  horn n. 角；角质；号角；喇叭
+
+  horny adj. 性感的、性兴奋的；角的、角质的
+
+- evade v. 逃脱、躲开、躲避
+
+  invade v. 入侵、侵略
+
+  pervade v. 弥漫、遍及（尤指味道）
+
+- speculate v. 推测；投资
+
+  speculation n. 推测；投资
+
+  speculative adj. 推测性的；高风险的
+
+  spectacle n. 奇观；引人注目的表演或展示
+
+  spectacular adj. 壮观的 n. 大型活动（如音乐剧或选美）
+
+  spectrum n. 光谱；范围、分类
 
 ## Synonyms
 
@@ -1742,9 +1846,13 @@
 
   other than 除了...以外
 
+  except prep. 除了...以外 conj. 用法：except that
+
   except for 除了...以外
 
-  except 除了...以外
+  save prep. 除了...以外 conj. 用法：save that
+
+  save for 除了...以外
 
   beyond prep. 除了...以外
 
@@ -2326,6 +2434,8 @@
 
   take care of 照顾
 
+  tend v. 趋向；照顾、关照
+
   raise v. 提升、增加；产生；收集、征收；抚养；复活；放弃（围困、封锁）；（海上的人）看到（陆地或船）
 
   foster v. 培养；养育 adj. 养育的（foster parent 养父母）
@@ -2379,6 +2489,14 @@
   amount to sth.
 
   the same as sth.
+
+- “承诺”、“保证”
+
+  promise n. v. 承诺
+
+  pledge n. v. 承诺；（法律）质押；祝酒（为健康）
+
+  commitment n. 承诺、（对事业的）致力；（限制行动自由的）义务、责任
 
 ## Antonyms
 
