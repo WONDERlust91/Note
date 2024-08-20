@@ -46,11 +46,11 @@
 
   substitute n. 替代物；v. 替代
 
-- adapt vi. 适应，不及物，固定搭配 to; vt. 改编，及物
+- adapt vi. 适应，不及物，固定搭配 adapt to; vt. 改编，及物
 
-  adept adj. 精通，固定搭配 be adept at，等于 be good at; n. 老手
+  adept adj. 精通，固定搭配 be adept at，等于 be good at doing/n.; n. 老手
 
-  adopt vt. 收养，使用
+  adopt vt. 收养；使用
 
 - devise v. 设计，发明; n. 遗赠
 
@@ -350,6 +350,8 @@
 
   irrigate v. 灌溉
 
+  irritate v. 激怒、惹怒
+
   intimidate v. 威吓
 
   immediate adj. 立即的；最接近的
@@ -646,6 +648,14 @@
 
   impart v. 传授；赐予
 
+  parity n. 平等、相同、对等（尤其在地位或报酬上）；（数学）奇偶性；（医药）生育子女
+
+  imparity n. 不平等、不同、不配合
+
+  partial adj. 部分的、不完全的；偏袒的、不公平的；偏爱的 n. 泛音或和声
+
+  impartial adj. 公正的、不偏不倚的
+
 - vague adj. 不明确的；含糊的
 
   vogue n. 时尚 adj. 流行的 v. 像模特一样随音乐舞动
@@ -867,6 +877,10 @@
   inject v. 注射；注入
 
   object n. 物体；对象；目标；宾语 v. 反对、拒绝
+
+  objection n. 异议、反对
+
+  objective n. 目标 = goal；宾语；镜头（望远镜或显微镜） adj. 客观的；宾语的、宾格的
 
   project n. 项目；工程（房产） v. 预测；突出；投影；宣传
 
@@ -1098,7 +1112,7 @@
 
   temptation n. 诱惑
 
-  contemplate v. 沉思
+  contemplate v. 凝视、考虑、沉思（重音在 con）（= consider carefully/a lot）
 
   template n. 模板；支板
 
@@ -1317,6 +1331,18 @@
   dominance n. 影响力、统制力
 
   predominance n. 占主导地位
+
+- apt adj. 适当的（appropriate 的缩写）；易于的、倾向于的（be apt to do）；聪明的、学得快的
+
+  opt v. 选择
+
+- unilateral adj. 单边的
+
+  bilateral adj. 双边的
+
+  trilateral adj. 三边的
+
+  multilateral adj. 多边的
 
 ## Synonyms
 
@@ -1618,7 +1644,7 @@
 
 - 表示“费用”
 
-  charge v. 收费； 商家 charge 消费者
+  charge v. 收费（商家 charge 消费者）；指控（法律上，不一定有罪）；委任、负责；充电；冲锋、攻击 n. 收费；指控；负责；装药（枪或炮）；冲锋、攻击
 
   cost v. 使...花费； 商品 cost 消费者 some money
 
@@ -1694,7 +1720,7 @@
 
 - 表示“沉思”
 
-  contemplate v. 凝视；考虑；深思
+  contemplate v. 凝视；考虑；深思（重音在 con）（= consider carefully/a lot）
 
   ponder v. 仔细思考
 
@@ -2088,7 +2114,7 @@
 
   accuse v. 指责（不一定是法律上）
 
-  charge n. v. 指控（法律上，但不一定有罪）
+  charge v. 收费（商家 charge 消费者）；指控（法律上，不一定有罪）；委任、负责；充电；冲锋、攻击 n. 收费；指控；负责；装药（枪或炮）；冲锋、攻击
 
   sentence n. 刑罚（被判决有罪）
 
@@ -2126,7 +2152,7 @@
 
   plaintiff n. 原告
 
-  provision n. （法律文件的）规定、条款；提供、供给；提供的数量 v. 提供食物、水、装备（尤指旅游）；提供预留资金（为负债）
+  provision n. （法律文件的）规定、条款；提供、供给；提供的数量 v. 提供食物、水、装备（尤指旅游）；提供预留资金（为负债）（会计上的提前计提负债）
 
   enforce v. 执法、执行
 
@@ -2531,6 +2557,34 @@
   even/level(adj.) playing field 公平竞赛环境
 
   level(v.) the playing field 维持公平竞争的环境
+
+- “勺子”
+
+  scoop n. 大勺子 v. 用勺子舀
+
+  spoon n. 小勺子 v. 用勺子舀
+
+  scoop up 舀起来
+
+- “税”、“征税”
+
+  levy v. 征税、收税；征召服兵役 n. 税（= tax）；征召兵役
+
+  tax n. 税；负担 v. 征税；提出很高的要求（对某人的力量或资源）；指责；评估（费用）
+
+  tariff n. 关税 v. 征关税
+
+  duty n. 责任；任务；关税
+
+  customs n. 海关
+
+- “等等”
+
+  to name a few 用来列几个名字，译为 列举一些、等等（= and so on）
+
+  and so on 还有其他、等等
+
+  I have many books, history books, math books, to name a few/and so on.
 
 ## Antonyms
 
