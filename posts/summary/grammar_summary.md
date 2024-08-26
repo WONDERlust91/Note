@@ -253,7 +253,21 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
    Although/Though/While 都是尽管（但是）没有实质区别，注意与连词 but 意思上没有太大的区别，但句子表达的重点有区别，“句子 1, but 句子 2”，句子 2 是重点；“Although 句子 1, 句子 2”，句子 2 是重点。
 
-2. As
+2. though conj. 尽管、但是（从句与主句转折） adv. 但是、然而（与上一个完整句子转折）
+
+   conj.
+
+   Though he is free, he can't go anywhere.
+
+   = He can't go anywhere, though he is free.
+
+   adv.
+
+   This book is full of number. This book, though, is about history.
+
+   = This book is full of number. This book is about history, though.
+
+3. As
 
    - 介词：作为 + n.
 
@@ -318,7 +332,7 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
      as much as 尽管（仅在句首）；像...一样多的
 
-3. yet
+4. yet
 
    - 在句首，词性为 conj.或 adv. = but，表转折，译为“尽管”、“但是”
 
@@ -344,7 +358,7 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
      yet 表示更加
 
-4. 与其他从句的嵌套
+5. 与其他从句的嵌套
 
    Although I think that that these books are good is interesting, 主句. （状语从句嵌套宾语从句嵌套 that 引导的主语从句，主句）
 
@@ -1138,8 +1152,6 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
 - scores of sth. 不是 A of B（核心词是 A），scores of 是量词，表示很多，核心词是后面的 sth.
 
-- in that = because 连词 （in that 单独作为一个意群时）
-
 - should 除表示“本应该”外，还用在从句的 that 后，或用在 why，how，who，what 等词后，表示惊讶，译为竟然，还能。
 
   It is astonishing that we should find violence here. 很惊讶的是我们竟然在这里发现了暴力。
@@ -1366,10 +1378,24 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
 
   11. now that 既然（现在已经是这个样子了）
 
-  12. A feed on B. A 以 B 为食
+  12. in that = because 连词 （in that 单独作为一个意群时）
+
+  13. A feed on B. A 以 B 为食
 
       A live on/off B. A 靠 B 活
 
       feed v. 喂养；使逐渐穿过（受限空间） n. 喂养；向机器输送原材料的设备或导管；给舞台演员的提词
 
       live v. 保持活着；安家、生活 adj. 活着的；现场的（非录音的）；接电源的；热点（话题）的 adv. 直播地
+
+  14. in the wake of = in the pace of 随着（...的结果）
+
+      wake v. 醒来 n. 守灵；教堂守护节；（船或飞机在水或空气中留下的）尾迹
+
+      in the wake of 的 wake 是 n. 尾迹的意思
+
+  15. back and forth adv. 来来回回地
+
+  16. in the meantime 与此同时（常用于与上文转折）
+
+  17. at odds with 与之相矛盾

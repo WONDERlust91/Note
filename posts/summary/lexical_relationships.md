@@ -566,6 +566,20 @@
 
   inhabitant n. 居民
 
+  inhibit v. 阻碍、限制；抑制、压抑
+
+- exhibit （注意发音：iɡˈzibət） v. 展示；故意表现 n. 藏品、展品、陈列品
+
+  exhibition （注意发音：ˌeksəˈbiSHən） n. 展览；展示；表演赛
+
+  inhibit v. 阻碍、限制；抑制、压抑
+
+  inhibition n. 抑制、压抑
+
+  prohibit v. 禁止
+
+  prohibition n. 禁令
+
 - clutter v. 被杂乱的东西覆盖或填充 n. 杂物、杂乱的状态
 
   cluster n. 一组、一簇 v. 聚集
@@ -732,7 +746,9 @@
 
 - conquer （发音重音在前）v. 征服
 
-  concur （发音重音在后）v. 同意；同时发生
+  concur （发音重音在后）v. 同意（更正式，concur with = agree with）；同时发生
+
+  concurrent adj. 同时的、并发的
 
   incur v. 招致；遭受的不好结果
 
@@ -840,7 +856,7 @@
 
   underline n. 下划线 v. 强调 = highlight v. 高亮
 
-  undermine v. 破坏（根基）；削弱
+  undermine v. 破坏、侵蚀（根基）；削弱
 
   underscore v. 强调
 
@@ -1158,6 +1174,8 @@
 
 - lay v. 放置；下蛋；跟随（特定的轨迹）；lie 的过去式 n. 一个区域的总体外观、环境（the lay of the countryside）；产蛋期间；短诗 adj. 非神职的；外行的（lay and professional）
 
+  belay v. 固定（绳索）以确保紧固、安全；（航海俚语）停下、够了！ n. 固定、保护；用于固定刺入石头的尖锥
+
   delay v. n. 延迟
 
   inlay v. 镶嵌（以装饰） n. 镶嵌物；镶嵌设计
@@ -1197,10 +1215,6 @@
 - gaze v. n. 凝视
 
   graze vi. 吃青草 vt. 放牧；擦伤 n. 擦伤
-
-- exhibit （注意发音：iɡˈzibət） v. 展示；故意表现 n. 藏品、展品、陈列品
-
-  exhibition （注意发音：ˌeksəˈbiSHən） n. 展览；展示；表演赛
 
 - mission n. 任务；使命
 
@@ -1352,6 +1366,74 @@
 
   indefinitely adv. 无休止地
 
+- phase n. 阶段、时期；月相 v. 逐步进行
+
+  phase in 逐步采用
+
+  phase out 逐步淘汰
+
+  phrase n. 词组、短语 v. 表达、遣词造句
+
+- causal adj. 因果的、原因的、导致的
+
+  causative adj. 因果的、原因的、导致的 n. 使动词
+
+  causality n. 因果关系
+
+  casual adj. 轻松的；暂时的；偶然的；休闲的（着装） n. 做某事不规律的人
+
+  casualty n. 伤亡者、受害者
+
+- catalyst n. 催化剂
+
+  catalog (catalogue) n. 目录 v. 制作目录、分类
+
+- miserable adj. 悲惨的；很少的、不足的
+
+  misery n. 苦难
+
+  miser n. 吝啬鬼
+
+  mystery n. 奥秘；犯罪悬疑小说或剧
+
+  mysterious adj. 神秘的
+
+- cutaneous adj. 影响皮肤的
+
+  instantaneous adj. 瞬间、立刻的；（物理）瞬时的
+
+  spontaneous adj. 自发的
+
+- solve v. 解决、解释
+
+  solution n. 解决方案；溶液
+
+  solute n. 溶质
+
+  solvent adj. 有偿债能力的；能溶解其他物质的 n. 溶剂
+
+  dissolve v. 溶解；关闭、解散 n. （影片）从一张图片逐渐变换到另一张
+
+  dissolution n. 关闭、解散；放纵的生活
+
+  dissolute adj. 放纵的
+
+  resolution n. 决议；决心（new year's resolution）；解决方案；（化学）分解；（光学）分辨率；（对抽象概念的）转化
+
+  resolve v. 解决；决定；（化学）分解；转化 n. 决心
+
+  resolute adj. 坚定的、坚决的
+
+- unhinge v. 使精神错乱；取下合页、取下铰链
+
+  hinge n. 合页、铰链 v. 用铰链连接
+
+  hint n. v. 暗示
+
+  hinder v. 阻碍 adj. 后面的、尾部的
+
+  hamper v. 阻碍 n. （航海）船上必要但笨重的器械
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1450,6 +1532,8 @@
 
   grim adj. 极其严重或阴沉；（某地）令人生畏或无吸引力
 
+  stiff adj. 僵硬的、难以弯曲的、死板的；严重的；充满（be stiff with） n. 尸体 v. 杀死
+
   fierce adj. 凶猛的；猛烈的
 
   rigorous adj. 严苛的
@@ -1506,7 +1590,7 @@
 
   v. confound
 
-- 表“阻止”词组 v. sb/sth from doing sth.
+- 表“阻止”、“阻碍”词组 v. sb/sth from doing sth.
 
   keep sb/sth (from) doing sth. 只有 keep 中 from 可省略。
 
@@ -1514,7 +1598,7 @@
 
   stop
 
-  bar
+  bar n. 长的木杆或金属；吧台；障碍、限制；一小段音乐；法庭上的分隔（禁止越过）；律师职业；一个大气压的单位 v. 紧固；阻碍、禁止；用长条标记
 
   block
 
@@ -1522,13 +1606,19 @@
 
   impede
 
-  hamper
+  hamper v. 阻碍 n. （航海）船上必要但笨重的器械
 
   handicap
 
-  hinder
+  hinder v. 阻碍 adj. 后面的、尾部的
 
   obstruct
+
+  stunt v. 阻碍发展；施展特技（尤指空中） n. 特技
+
+  inhibit v. 阻碍、限制；抑制、压抑
+
+  curb/kerb n. 马路牙子；抑制、限制 v. 抑制、限制
 
 - 表“处理”
 
@@ -2484,7 +2574,7 @@
 
   subvert v. 推翻、颠覆（权力和统制）
 
-- “培养”、“养育”
+- “培养”、“养育”、“繁殖”
 
   bring up 养育
 
@@ -2503,6 +2593,10 @@
   nurture v. 养育 n. 培养
 
   cultivate v. 培植、耕种；培养（品质或技能）
+
+  breed (过去式、过去分词：bred) v. 繁殖、生育 n. 品种（如猫、狗的品种）
+
+  reproduce v. 复制、繁殖
 
 - “地图”相关
 
@@ -2578,7 +2672,7 @@
 
   levy v. 征税、收税；征召服兵役 n. 税（= tax）；征召兵役
 
-  tax n. 税；负担 v. 征税；提出很高的要求（对某人的力量或资源）；指责；评估（费用）
+  tax n. 税；负担 v. 征税；使之达到很高的要求、负载（对某人的力量或资源）；指责；评估（费用）
 
   tariff n. 关税 v. 征关税
 
@@ -2593,6 +2687,12 @@
   and so on 还有其他、等等
 
   I have many books, history books, math books, to name a few/and so on.
+
+- “卫生”
+
+  hygiene n. 卫生（保持干净）
+
+  sanitation n. 公共卫生（尤指干净的饮用水 clean drinking water 和合适的污水处理 adequate sewage disposal）
 
 ## Antonyms
 
