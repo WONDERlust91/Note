@@ -1278,13 +1278,17 @@
 
   retention n. 保留、保持、保有
 
-- content adj. 满意（重音在 tent） v. 使满意（重音在 tent） n. 满意（重音在 tent）；内容（重音在 con）
+- competent adj. 能胜任的（重音在 con）
+
+  content adj. 满意（重音在 tent） v. 使满意（重音在 tent） n. 满意（重音在 tent）；内容（重音在 con）
 
   detent n. 棘爪、锁止机构
 
   extent n. 区域、范围、程度
 
   intent n. 意图、目的 adj. 决心做的（be intent on sth.）；专注的
+
+  incompetent adj. 无能的、无法胜任的（重音在 com）
 
   latent adj. 潜在的、潜藏的
 
@@ -1343,6 +1347,10 @@
   trilateral adj. 三边的
 
   multilateral adj. 多边的
+
+- definitely adv. 当然地、无疑地
+
+  indefinitely adv. 无休止地
 
 ## Synonyms
 
