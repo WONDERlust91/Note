@@ -38,7 +38,7 @@
 
 - 普通连词：形如`句子, and 句子`，连词用于并列两句话：如 and or but so，而 however thus therefore furthermore 都是副词，不可用于逗号后并列两句话。
 
-- 关系连词（非问句，问句中叫关系副词）：when/if/who/how/although/though/while/yet
+- 关系连词（非问句，问句中叫关系副词）：when/if/who/how/although/albeit/though/while/yet
 
 - 时间概念的词，可以做时间关系连词，跟 when 的作用相同，后面可跟完整句子，整体做主句的状语或解释说明
 
@@ -1399,3 +1399,7 @@ have been doing 从过去到现在一直做某事，完美翻译就是“一直�
   16. in the meantime 与此同时（常用于与上文转折）
 
   17. at odds with 与之相矛盾
+
+  18. stake n. 木或金属桩；赌注 v. （用木桩）支撑；下注
+
+      at stake 1. 输赢之间的、危在旦夕的 = at risk/to be won or lost 2. 处在争论中的、有问题的 = at issue/in question

@@ -470,7 +470,7 @@
 
   conductor n. 指挥
 
-- allude v. 暗示；提及
+- allude v. 暗示；提及（allude to）
 
   allusive adj. 暗示的
 
@@ -1434,6 +1434,10 @@
 
   hamper v. 阻碍 n. （航海）船上必要但笨重的器械
 
+- carpet n. 地毯；（厚且柔软的）一层（某物） v. 铺地毯；用（一层厚且软的东西）覆盖
+
+  carpenter n. 木工、木匠 v. （用木工方式）制作
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1443,6 +1447,8 @@
      - conj. whereas （弱转折，表对比）
 
      - conj. although
+
+     - conj. albeit (= although)
 
      - conj. though （多数时候用作副词）
 
