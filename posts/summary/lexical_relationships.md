@@ -1442,6 +1442,8 @@
 
   instantaneous adj. 瞬间、立刻的；（物理）瞬时的
 
+  simultaneous adj. 同时的
+
   spontaneous adj. 自发的
 
 - solve v. 解决、解释
@@ -1477,6 +1479,42 @@
 - carpet n. 地毯；（厚且柔软的）一层（某物） v. 铺地毯；用（一层厚且软的东西）覆盖
 
   carpenter n. 木工、木匠 v. （用木工方式）制作
+
+- accumulate v. 积累、累积
+
+  emulate v. 效仿、看齐
+
+  stimulate v. 刺激
+
+  simulate v. 模拟、仿真
+
+  simultaneous adj. 同时的
+
+- genuine adj. 真的、真正的、真诚的 = authentic
+
+  genus n. 属别（界、门、纲、目、科、属、种中的属）
+
+  genius n. 极强的能力；天才；有很大影响力的人（可能是善的，也可能是恶的）；普遍特征 adj. 天才的
+
+  ingenuity n. 创造性、聪明才智
+
+  ingenious adj. 聪明的、天才的
+
+  ingenuous adj. 天真的、纯真的
+
+- authentic adj. 真正的、来源无可争议的、确凿的 = genuine
+
+  authenticity n. 真实性
+
+  authenticate v. 验证、认证
+
+  authentication n. 认证
+
+  authority n. 权威；当局、政府（通常是复数 authorities）；影响力
+
+  authorize v. 授权、批准
+
+  autorization n. 授权
 
 ## Synonyms
 
