@@ -788,9 +788,27 @@
 
   repel v. 斥退、抵抗；驳回；厌恶
 
-- clamp n. 夹具；一堆根类蔬菜；饲料棚 v. 夹紧；夹紧；保持电压在额定值
+- claim v. 宣称 n. 宣称；要求、请求
 
-  cramp n. 抽筋；G 型夹具 v. 限制或抑制发展；紧固；抽筋
+  clam n. 蛤蜊；羞涩、孤僻的人
+
+  clamber v. 爬上、攀登 n. 攀登
+
+  clamp n. 夹钳 v. （用夹钳）固定
+
+  climb v. 攀登、爬上；奋力移动（进出） n. 爬升、攀登
+
+  cram v. 填满；填鸭式学习
+
+  cramp n. 抽筋；G 型钳 v. 阻碍、限制；夹紧、固定；抽筋
+
+  scramble v. 爬行；紧急起飞；使混乱 n. 艰难爬上、翻过；混乱
+
+  scrap n. 一小片、一点（通常是剩余的）；废金属、废品；争执 v. 废弃、报废；争吵
+
+  scrape v. 刮掉；刮伤；挤过去；（网站）爬取内容 n. 刮擦声；刮宫手术；窘境；
+
+  scratch v. 划、刮、抓、挠；（用笔）划去；刮擦打碟 n. 划痕；搓碟；（赛马）无惩罚负重（from/off scratch）；钱 adj. 凑数的（质量不高）、临时找来的；（高尔夫）0 差分的（水平很高的）
 
 - expend v. 花费
 
@@ -862,10 +880,6 @@
 
   underway adv. 进行中；（船）在水中移动
 
-- scrape v. 刮掉；削去；挤过；抓取数据（注意该单词发音与下面不同）
-
-  scrap v. 报废、废弃；争执 n. 废料、碎屑；小争执
-
 - means n. 方法 = way 这个单词天生有 s，单复同形，所以 a means of 正确
 
   mean v. 意味着
@@ -928,13 +942,39 @@
 
   haunted adj. 闹鬼的
 
-- decent adj. 很好的
+- accent n. 口音；重音（用于强调）；强调 v. 强调
 
-  descent n. 下降、血统
+  ascend vi. 攀登；上升（不及物）
 
-  descend vi. 下降（不及物）
+  ascent n. 攀上、登上；上升
 
-  ascend vi. 上升（不及物）
+  cent n. 一分钱 abbr. 摄氏度 centigrade；世纪 century
+
+  descend vi. 下降（不及物）；（路、楼梯）在斜坡上并向下延伸（a side road descended into the forest）；突然攻击（descend on）；是直系亲属（be descended from sb.）
+
+  descent n. 下降；血统（家庭或国籍）；突然袭击
+
+  decent adj. 正派的、受人尊敬的；很好的、令人满意的
+
+  innocent adj. 无罪的；无辜的；纯洁的；无意的、无害的 n. 纯真的人；无辜的人
+
+  lucent adj. 发光的
+
+  nascent adj. （流程或组织）初生的、新兴的（有未来潜力）
+
+  percent adv. 百分之 n. 一个百分点
+
+  precent v. 领唱（合唱）
+
+  recent adj. 最近
+
+  renascent adj. 复兴、重新流行
+
+  renaissance n. 文艺复兴
+
+  scent n. 独特的味道（好闻的）；气味、踪迹 v. 赋予香味；分辨气味
+
+  transcend v. 超越
 
 - sedentary adj. 久坐的
 
@@ -1625,6 +1665,8 @@
   inhibit v. 阻碍、限制；抑制、压抑
 
   curb/kerb n. 马路牙子；抑制、限制 v. 抑制、限制
+
+  cramp n. 抽筋；G 型钳 v. 阻碍、限制；夹紧、固定；抽筋
 
 - 表“处理”
 
