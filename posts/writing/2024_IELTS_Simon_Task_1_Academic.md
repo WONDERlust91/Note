@@ -22,7 +22,10 @@ Type 1 - 4 are all about **numbers**.
 
 Essay Structure: 4 paragraphs
 
-1. Introduction - 1 sentence: Paraphrase the question
+1. Introduction - 1 sentence: Paraphrase the question: write what your graph shows and for what period of time
+   1. State what your graph shows
+   2. Indicate the time period
+   3. list any countries (or other names mentioned in your question card)
 2. Overview - 2 sentences: The main, general things
 3. Detail
 4. Detail
@@ -30,6 +33,44 @@ Essay Structure: 4 paragraphs
 Why 2 paragraphs for detail?
 
 This makes you organise or 'group' the information better.
+
+## Paraphrasing Vocabulary
+
+### Introductory Expressions
+
+1. The graph/chart/table/diagram
+
+   - gives information about
+   - provides information about
+   - shows
+   - illustrates
+   - represents
+   - depicts
+   - gives reason why (only if the graph provides a reason for something)
+   - explains why (only if the graph provides an explanation for something)
+   - compares (only if several items are compared)
+     1. compare sth. in terms of sth.
+     2. compare sth. in year 1 and year 2.
+
+2. rewrite a phrase by using the word **how**:
+
+   - shows the number of people = shows how many people
+   - depicts changes in spending on = depicts how much spending on
+
+3. rewrite by using synonyms:
+
+   - number of = quantity of
+   - spending = expenditure
+   - rate = percentage
+   - information = data
+   - change = increase, decrease, or variation
+   - share = portion
+   - place = site
+
+4. time periods:
+   - from 2013 to 2023 = between 2013 and 2023
+   - in 2013 = in the year 2013
+   - in 2013 and 2023 = in 2013 and 2023, respectively = in the years 2013 and 2023
 
 ## Line graph
 
