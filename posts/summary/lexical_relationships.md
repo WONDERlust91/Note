@@ -1496,11 +1496,19 @@
 
   genius n. 极强的能力；天才；有很大影响力的人（可能是善的，也可能是恶的）；普遍特征 adj. 天才的
 
+  prodigy n. 神童；典范；神异
+
   ingenuity n. 创造性、聪明才智
 
   ingenious adj. 聪明的、天才的
 
   ingenuous adj. 天真的、纯真的
+
+- prodigy n. 神童；典范；神异
+
+  prodigal adj. 败家的、浪费的；慷慨的、大量的 n. 败家子
+
+  prodigious adj. 惊人的、极大的
 
 - authentic adj. 真正的、来源无可争议的、确凿的 = genuine
 
@@ -1537,6 +1545,10 @@
   conflict n. 冲突 v. 发生冲突
 
   inflict v. 造成（痛苦或不好的结果）
+
+- predict v. 预测、预计
+
+  predicate n. 谓语 v. 断言（为真）、声称为真；基于、取决于
 
 ## Synonyms
 
@@ -1619,6 +1631,10 @@
   dramatic adj. 戏剧性的；令人震惊的、极大的
 
   dramatically adv. 戏剧性地；程度惊人地、极大地
+
+  prodigious adj. 惊人的、极大的
+
+  prodigiously adv. 惊人地、极大地
 
 - 表“严重的”、“严峻的”、“严苛的”、“激烈的”
 

@@ -163,29 +163,69 @@ I am in school. 介词短语作宾语，要加 be 动词
 
 ### 主语从句
 
-主语本身是个句子，谓语用单数：主语从句 + 谓语 + 宾语
+#### 思维转换
 
-- how/what/who/where/when/whether 引导
+我今天踢了足球
 
-  what you eat is apples.
+英语思维：
 
-  How you play soccer hurts you.
+1. 我今天做的事情是踢了足球
+2. 今天发生的事情是我踢了足球
 
-  What is the most important thing for you does not hold true for others.
+我觉得你的观点是对的
 
-  What you do is bad.
+英语思维：
 
-  When you play soccer is a good time.
+1. 你所认为的事情是我认可的
+2. 认为你的观点是对的人是我
 
-  How you play soccer is good.
+#### 语法
 
-  Whether you play soccer is unknown.
+主语本身是个句子，谓语用单数：主语从句 + 谓语（第三人称单数） + 宾语
 
-  Who you like is him.
+- what/who/how/where/when/whether 引导
 
-  Who hates you is him.
+  1. what who 词性为 n. 做主语或宾语，是从句主体（主谓宾）的一部分
 
-- that 引导：That + 完整句子 + 谓语（第三人称单数） + 宾语
+     (Who makes you happy) is also a great man. （who 作从句的主语）
+
+     (What you do) is great. （what 作从句的宾语）
+
+     (What is the greatest toy in the world) is XXX. （what 作从句的主语）
+
+     注意要将括号中看成整体，判断是否能发出后面的谓语和宾语
+
+     what you eat is apples.
+
+     What is the most important thing for you does not hold true for others.
+
+     What you do is bad.
+
+     Who you like is him.
+
+     Who hates you is him.
+
+  2. how where when whether 词性为 adv. 做状语，因此后面要接完整的句子（主谓宾），形成从句
+
+     How you play soccer has taught me a lot. （从句 How you play soccer 中 How 做状语，you play soccer 是完整主谓宾）
+
+     How you play soccer hurts you.
+
+     When you play soccer is a good time.
+
+     Where you learned English is in Beijing.
+
+     Whether you play soccer is unknown.
+
+- That 引导：That + 完整句子（主谓宾） + 谓语（第三人称单数） + 宾语
+
+  注意要将（That + 主谓宾）看成一个整体来发出谓语，而不是从句（主谓宾）中的 主语 发出 后面的谓语
+
+  错误： That he played soccer today is happy. 他踢足球这件事是没法等同于“开心”的
+
+  正确： That he played soccer today makes me happy.
+
+  e.g. That I played soccer today is true.
 
   That you play tennis is interesting.
 
