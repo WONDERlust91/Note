@@ -1976,6 +1976,8 @@
 
 - 表示“恶化”
 
+  compound n. 化合物、混合物；院子 adj. 复合的、组合的 v. 构成、组成（be compounded/composed/made up/constituted of、be formed from）；恶化、加剧负面
+
   deteriorate v. 恶化
 
   exacerbate v. 恶化
