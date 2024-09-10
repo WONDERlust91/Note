@@ -156,6 +156,8 @@
 
 - apprehension n. 顾虑；理解，抓牢；抓捕
 
+  apprehensive adj. 忧虑的；感知相关的（很少用）
+
   comprehension n. 理解力
 
   comprehensive adj. 全面的；综合性的（学校） n. 综合学校
@@ -632,6 +634,12 @@
 
   trailer n. 拖挂车；预告片 v. 预告宣传；用拖车运输
 
+  travail n. 艰辛、痛苦的或辛劳的努力 v. 遭受艰辛、经历痛苦的或辛劳的努力
+
+  trivial adj. 低价值的、不重要的
+
+  trial n. 审判；试验、测试；考验 v. 试验、测试
+
 - repute n. 声名、名誉 v. 认为（具有...名声）
 
   depute v. 委任；委托
@@ -739,6 +747,40 @@
   premise n. 前提 v. 以之为前提
 
   precise adj. 精确
+
+- premier adj. 排第一的 n. 总理
+
+  premiere n. 首映（电影、音乐、戏剧） v. 给出第一次表演
+
+  premium n. 保险费；溢价、额外费用（at a prime 处在溢价中，表达物品稀缺、需求量大）（put a premium on 认为有价值或重要）；奖励、奖金
+
+  prime adj. 首要的、主要的；最好的、极好的；质数的 n. 最好的年华；质数；单引号(') v. 使（某人）准备好（通常以给相关信息的方式）
+
+  primary adj. 首要的、主要的；最早的、最先的；原始的、原来的 n. （美国大选）预选；原色（三原色） v. 在（美国大选的）预选中竞争
+
+  preliminary adj. 预先准备的、初步的 n. 前期准备；初步行动
+
+- prominence n. 出名、突出（概念上的突出）；突出（物理上突出）
+
+  prominent adj. 重要的、著名的；突出的；突显的、引人注意的
+
+  eminence n. 名声、成就；上升的地面
+
+  eminent adj. 杰出的、著名且受人尊敬的
+
+  preeminence n. 优势、超越所有人的事实
+
+  preeminent adj. 超群的
+
+  dominance n. 影响力、统制力
+
+  dominant adj. 主导的 n. （基因）显性的
+
+  predominance n. 占主导地位
+
+  predominant adj. 占主导地位的
+
+  dormant adj. 冬眠的；休眠的
 
 - drastically adv. 强烈或深远影响地；极其地；非常地
 
@@ -1204,6 +1246,12 @@
 
   consciousness n. 意识
 
+  prescience n. 预知、远见 = far-sightedness/foresight
+
+  prescient adj. 有先见之明的 = far-sighted
+
+  precious adj. 珍贵的；极其的（precious few/little/lot）；矫揉造作的（贬义） n. 至爱
+
 - expedite v. 加快（重音在 ex）
 
   expedition n. 远征、考察；（做事的）及时性
@@ -1380,16 +1428,6 @@
 
   spectrum n. 光谱；范围、分类
 
-- prominence n. 出名、突出（概念上的突出）；突出（物理上突出）
-
-  eminence n. 名声、成就；上升的地面
-
-  preeminence n. 优势、超越所有人的事实
-
-  dominance n. 影响力、统制力
-
-  predominance n. 占主导地位
-
 - apt adj. 适当的（appropriate 的缩写）；易于的、倾向于的（be apt to do）；聪明的、学得快的
 
   opt v. 选择
@@ -1550,6 +1588,22 @@
 
   predicate n. 谓语 v. 断言（为真）、声称为真；基于、取决于
 
+- dwell v. 居住 dwell on 在（不快的事情）上思考或描述地冗长 n. 机械有规律的停顿
+
+  dwindle v. 逐渐减少
+
+- pessimistic adj. 悲观的
+
+  pathetic adj. 可怜的；严重不足的、非常差的
+
+- refurbish v. 翻新、重新装修
+
+  refurnish v. 重新布置（家具）
+
+- comedy n. 喜剧
+
+  remedy n. 治疗（= treatment） v. 补救、纠正
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1635,6 +1689,8 @@
   prodigious adj. 惊人的、极大的
 
   prodigiously adv. 惊人地、极大地
+
+  exponential adj. 指数级的（增长）
 
 - 表“严重的”、“严峻的”、“严苛的”、“激烈的”
 
@@ -2874,6 +2930,84 @@
 
   torment n. 折磨（精神、肉体） v. 受折磨
 
+- “主要的”、“首要的”
+
+  main adj. 主要的 n. 主管道
+
+  major adj. 主要的 n. 少校；（音乐）大调；世界主要组织、公司或比赛；达到法定年龄者
+
+  chief n. 统制者、领导者 adj. 最重要的
+
+  key n. 钥匙；（键盘）按键；关键；（音乐）基调、调；低洼的岛屿 adj. 关键的、非常重要的 v. 按键输入；固定；使（表面）粗糙
+
+  prime adj. 首要的、主要的；最好的、极好的；质数的 n. 最好的年华；质数；单引号(') v. 使（某人）准备好（通常以给相关信息的方式）
+
+  primary adj. 首要的、主要的；最早的、最先的；原始的、原来的 n. （美国大选）预选；原色（三原色） v. 在（美国大选的）预选中竞争
+
+  principal adj. 首要的；投资本金的 n. 组织最高领导人、负责人；本金；代理人；（法律）直接责任人
+
+  foremost adj. 最重要的、首要的 adv. 首先地（= in the first place）
+
+  predominant adj. 主要的、占主导地位的
+
+  paramount adj. 最重要的、至高的
+
+  staple n. 钉书钉；主食；羊毛棉花长度（long-staple 长绒 short-staple 短绒）；贸易中心 v. 用（钉书针）钉；筛选、分类（羊毛） adj. 主要的、重要的（消费相关）（staple food 主要食物）
+
+- “厕所”
+
+  lavatory n. 厕所
+
+  toilet n. 厕所；清洁 v. 协助（病人、婴儿）上厕所
+
+  bathroom n. 洗手间、卫生间
+
+- “没收”、“扣押”、“征收”
+
+  confiscate v. 没收、征收
+
+  impound v. 扣押；关在围栏中；（水坝）挡水、蓄水
+
+- “走私”
+
+  smuggle v. 走私
+
+  contraband n. 违禁品、走私品 adj. 走私的
+
+- “反叛”
+
+  revolt v. 反叛；感到厌恶、恶心 n. 反抗、叛乱
+
+  rebel n. 反叛者 v. 反叛、抵抗
+
+  rebellion n. 叛乱
+
+  insurgence n. 叛乱
+
+  insurrection n. 叛乱、起义
+
+- “昆虫” insect
+
+  bee n. 蜜蜂
+
+  bug n. 小昆虫
+
+  butterfly n. 蝴蝶
+
+  cockroach (roach) n. 蟑螂
+
+  dragonfly n. 蜻蜓
+
+  fly n. 苍蝇
+
+  locust n. 蝗虫；洋槐
+
+  mosquito n. 蚊子
+
+  moth n. 蛾子
+
+  termite n. 白蚁
+
 ## Antonyms
 
 - radical adj. 激进的，左倾的
@@ -2970,7 +3104,11 @@
 
 - optimism n. 乐观主义
 
+  optimistic adj. 乐观的
+
   pessimism n. 悲观主义
+
+  pessimistic adj. 悲观的
 
 - offensive n. 进攻 adj. 有攻击性的；冒犯的
 
