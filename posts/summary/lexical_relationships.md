@@ -30,7 +30,7 @@
 
   constitute v. 构成；依法设立
 
-  constipation n. 便秘
+  constipation n. 便秘（= astriction）
 
   constitution n. 宪法；组成；体质、健康状态
 
@@ -45,6 +45,10 @@
   restitute v. 恢复先前状态；归还
 
   substitute n. 替代物；v. 替代
+
+  superstition n. 迷信
+
+  superstitious adj. 迷信的
 
 - adapt vi. 适应，不及物，固定搭配 adapt to; vt. 改编，及物
 
@@ -230,7 +234,25 @@
 
   affect v. 影响；假装 n. 情感或欲望
 
+  affection n. 喜欢、产生感情
+
+  confect v. 制作（通过将不同元素混合的方式）
+
+  confection n. 甜食；混合
+
   effect (on) n. 效果；布景；个人物品 v. 发生、实现
+
+  defect n. 缺点、缺陷；背叛（国家或事业）、投敌
+
+  defection n. 叛逃、投敌
+
+  infect v. 感染
+
+  infection n. 感染
+
+  perfect adj. 完美的；完全的、绝对的（= absolute/complete/total/thorough/sheer）；（数学）完全数（除自身外约数合等于它本身，如 6 的约数 1、2、3 和为 6）；（语法）完成时的 v. 使完美 n. 完成时
+
+  perfection n. 完美
 
 - affective adj. 情感的（心理学）
 
@@ -348,6 +370,8 @@
 
   imitate v. 模仿
 
+  inmate n. 囚犯（被限制在某机构中的人，如监狱或医院）
+
   mitigate v. 缓解
 
   irrigate v. 灌溉
@@ -359,6 +383,10 @@
   immediate adj. 立即的；最接近的
 
   intermediate adj. 中等的 n. 中等品；中级技能者；中间产物 v. 调解
+
+- inmate n. 囚犯（被限制在某机构中的人，如监狱或医院）
+
+  primate n. 首席主教；灵长类动物
 
 - convolve v. 卷或绕在一起，缠绕；（数学）卷积
 
@@ -422,6 +450,12 @@
 
   succession n. 一些人或事物有共通的特点，并一个接一个，可译为一系列；（地质）按单一时间顺序的一组地层；继承职位，资产，头衔的行为或过程；（生态）种群的演变交替
 
+- session n. 会议；（从事特定活动的）一段时间
+
+  obsession n. 痴迷
+
+  possession n. 占有、拥有；财产、随身物品
+
 - formally adv. 正式地
 
   formerly adv. 以前
@@ -474,7 +508,7 @@
 
 - allude v. 暗示；提及（allude to）
 
-  allusive adj. 暗示的
+  allusive adj. 暗示的（= suggestive adj. 暗示性的）
 
   conclude v. 结束；总结
 
@@ -488,13 +522,17 @@
 
   elusive adj. 难以找寻的、难以实现的
 
-  exclude v. 排除
+  exclude v. 排除 = rule out
 
   exclusive adj. 排他的；独家的；高贵的 n. 独家消息
 
   include v. 包括
 
   inclusive adj. 全包含在内的；包容的
+
+  preclude v. 阻止发生、使不可能
+
+  preclusive adj. 阻止发生的、限制性的
 
   prelude n. 简介，序曲，前奏 v. 作为前奏，预示着
 
@@ -564,6 +602,10 @@
 
   inheritance n. 继承物
 
+  hereditary adj. 遗传的；世袭的、继承的
+
+  heredity n. 遗传；世袭、继承
+
   inhabit v. 栖息
 
   inhabitant n. 居民
@@ -604,10 +646,6 @@
 
   retract v. 收回；撤回
 
-- stain v. n. 污染，玷污 n. 染色
-
-  strain v. 竭力，拉伤，拉紧；过滤 n. 拉力；拉伤；紧张；一段音乐；种群；一种特定气质
-
 - strip v. 剥下，脱下；洗劫；剥夺 n. 脱衣舞；条；连环画
 
   stripe n. 条纹；军章；类型 v. 用条纹标记
@@ -634,11 +672,13 @@
 
   trailer n. 拖挂车；预告片 v. 预告宣传；用拖车运输
 
+  trail n. 轨迹、踪迹；尾迹；小径 (= path) v. 拖或被拖在后方 (= drag)；（缓慢、疲惫地）走在后方；尾随、追踪 (= follow/track/trace)；（在比赛中）落后 (= lose/be behind)；（提前）宣传 (= advertise)
+
+  trial n. 审判；试验、测试；考验 v. 试验、测试
+
   travail n. 艰辛、痛苦的或辛劳的努力 v. 遭受艰辛、经历痛苦的或辛劳的努力
 
   trivial adj. 低价值的、不重要的
-
-  trial n. 审判；试验、测试；考验 v. 试验、测试
 
 - repute n. 声名、名誉 v. 认为（具有...名声）
 
@@ -918,6 +958,8 @@
 
   undermine v. 破坏、侵蚀（根基）；削弱
 
+  underpin v. 支撑、加强
+
   underscore v. 强调
 
   underway adv. 进行中；（船）在水中移动
@@ -970,6 +1012,10 @@
 
   fatal adj. 致命的
 
+  vital adj. 必不可少的、重要的；充满活力的；致命的（= fatal） n. 重要器官（如生殖器）
+
+  viral adj. 病毒的；病毒式传播的（传播快速、广泛的） n. 病毒式传播物
+
 - concern v. 关于；担心 n. 担忧；关注的事务；生意、公司
 
   discern v. 辨别 = tell/distinguish；识别 = recognize
@@ -983,6 +1029,8 @@
   haunt v. （鬼魂）萦绕于
 
   haunted adj. 闹鬼的
+
+  taunt n. v. 嘲笑
 
 - accent n. 口音；重音（用于强调）；强调 v. 强调
 
@@ -1040,15 +1088,33 @@
 
   oversee v. 监管
 
-  overstep v. 越过、超过
+  overhaul v. 拆解检修 n. 全面检修
 
-  outweigh v. 超过的（更重的）
+  overtake v. （不幸）突然或意外发生
+
+  overstep v. 越过、超过
 
   overturn v. 翻过来（物理上）；推翻、废除（之前的发现、决定、情况等）
 
   overlay v. 覆盖；（品质或感受）变得更突出；overlie 过去式 n. 覆盖物；（计算机术语）覆盖（内存）
 
   overflow v. 淹没
+
+- outstrip v. 超过、移动比别人快并超过别人
+
+  outpace v. 超过、前进上升或改善更快
+
+  outdistance v. 超过、将（追赶者）抛在后面
+
+  outrun v. 超过、跑得更快或更远于
+
+  outweigh v. 超过的（更重的）
+
+  surpass v. 超过、大于
+
+  exceed v. 超过、在数量或尺寸上大过
+
+  beyond prep. 在或到更远的一端；在（某个时间或事件）之后；（阶段或水平）超过；不可能达到的程度、超出范围；除外（= apart from/except） adv. 在或到更远的一端地；太、超级（用在形容词前，表示超过形容词本身的程度，如 beyond bizarre，译为超级奇怪或太奇怪） n. 彼岸、未知（犹指死后的生命）
 
 - nuisance n. 麻烦事、讨厌的人（或东西）
 
@@ -1058,7 +1124,9 @@
 
   sensitive adj. 敏感的
 
-- weep v. 哭泣、掉泪；渗出液体 n. 抽咽、哭泣
+- creep v. 蠕行、蹑手蹑脚地走；植物沿地面生长；在压力下逐渐变形 n. 缓慢移动（尤指以稳定但不可察觉的速度）
+
+  weep v. 哭泣、掉泪；渗出液体 n. 抽咽、哭泣
 
   wipe v. 擦拭；消灭 n. 擦拭；一次性清洁布
 
@@ -1276,22 +1344,6 @@
 
   unlay v. （航海术语）解开（绳子成单股）
 
-- -struct 后缀 建造
-
-  construct v. 建造 n. （未经证实的）想法、理论
-
-  construction n. 建造
-
-  destruct v. 毁坏
-
-  instruct v. 指示、教导、告知
-
-  instructor n. 指导者
-
-  structure n. 结构 v. 构建
-
-  obstruct v. 阻碍
-
 - raise v. 提升、增加；产生；收集、征收；抚养；复活；放弃（围困、封锁）；（海上的人）看到（陆地或船）
 
   rise v. 上升（不及物，sth. rises）；站起来（物理意义和精神意义都有）；（河流）发源于；快要到达（某个年龄）（She was 39 rising 40. 她 39 快 40 了） n. 上升；发源地
@@ -1334,7 +1386,9 @@
 
   sequent adj.(ARCHAIC) 后续按顺序或有逻辑的
 
-- attain v. 实现、达到
+- abstain v. 克制（做某事或享受某事）；拒绝投票、弃权
+
+  attain v. 实现、达到
 
   certain adj. 确定的；具体的 pron. 一些但不是全部 certain of sth.
 
@@ -1355,6 +1409,52 @@
   stain v. 弄脏、污染、玷污；染色 n. 污渍；染料
 
   sustain v. 支持（物质或精神上）；经历（不好的事）；持续、维持；确认有效或正义 n. （音乐）延音（踏板或设备）
+
+- stain v. n. 污染，玷污 n. 染色
+
+  strain v. 竭力，拉伤，拉紧；过滤 n. 拉力；拉伤；紧张；一段音乐；种群；一种特定气质
+
+  constrain v. 强迫遵循、限制
+
+  constraint n. 限制、约束
+
+  distrain v. （法律）扣留（资产，以获得租金或欠款的支付）
+
+  distraint n. 扣押
+
+  restrain v. 阻止（做某事）
+
+  restraint n. 限制；克制
+
+- strict adj. 严格的；要求遵守的
+
+  astriction n. 便秘（= constipation）
+
+  constrict v. 使收缩、使变窄
+
+  constriction n. 收缩、收紧
+
+  district n. 区
+
+  restrict v. 限制、控制
+
+  restriction n. 限制
+
+- -struct 后缀 建造
+
+  construct v. 建造 n. （未经证实的）想法、理论
+
+  construction n. 建造
+
+  destruct v. 毁坏
+
+  instruct v. 指示、教导、告知
+
+  instructor n. 指导者
+
+  structure n. 结构 v. 构建
+
+  obstruct v. 阻碍
 
 - attend v. 出席；处理、照看、注意；护送、伴随（以提供协助）be attended by sb. 被某人护送；伴随或导致（结果） be attended by sth. 伴随着某事、导致某事
 
@@ -1396,6 +1496,8 @@
 
   patent n. 专利；漆皮 adj. 明显的、易发现的；（医药）（血管等）开放、未关闭的；专利的 v. 取得专利
 
+  portent n. 预兆（= omen）；杰出的、很棒的人或物
+
   tent n. 帐篷；西班牙深红甜酒；（手术）保持开口的可吸收材料 v. 搭帐篷；住帐篷
 
 - electric adj. 带电的
@@ -1416,7 +1518,7 @@
 
   pervade v. 弥漫、遍及（尤指味道）
 
-- speculate v. 推测；投资
+- speculate v. 推测；投资（= invest）
 
   speculation n. 推测；投资
 
@@ -1604,6 +1706,134 @@
 
   remedy n. 治疗（= treatment） v. 补救、纠正
 
+- apartment n. 套房、公寓
+
+  compartment n. 隔间 v. 分隔开
+
+  department n. 部门、（法国）行政区、专业领域或负责区域、具体的方面或品质（= aspect/quality）
+
+- orient n. 东方国家；最好珍珠的光泽 adj. 东方的 v. 朝向；（针对具体环境或需求）定制、面向或针对（具体环境或需求）
+
+  oriental adj. 东方的
+
+  orientation n. 方向、取向；简介、入职培训
+
+- monument n. 纪念碑
+
+  monumental adj. 巨大的（重要性、程度、或尺寸）
+
+- stall n. 三面封闭的建筑，如小摊位、动物窝棚或兽栏、淋浴间、停车位、影院或教堂座位；发动机失速停止 v. （载具或发动机）停止、失速；受阻、停滞、搪塞、拖延；在兽栏中饲养（动物）
+
+  install v. 安装；安排（某人）就职
+
+  still adj. 静止、不动 n. 安静、平静、寂静；一帧图像、剧照；蒸馏器 adv. 仍然；尽管（= nevertheless/all the same）；甚至（表强调） v. 使静止
+
+  instill v. 灌输、洗脑；滴入
+
+  distill v. 蒸馏；萃取、提炼
+
+- invest v. 投资；赋予（特质、属性）
+
+  investment n. 投资（= speculation）
+
+  investigate v. 调查
+
+  investigation n. 调查
+
+- census n. 人口普查
+
+  consensus n. 共识（= unanimity）
+
+- absent adj. 缺席的；心不在焉的 v. 离开
+
+  assent n. v. 同意
+
+  consent n. v. 同意、允许
+
+  dissent n. 异议 v. 不同意
+
+  present adj. 在场、出席；现在的、当下的 n. 现在、当下；礼物 v. 正式地或仪式地给予或颁奖（= give/confer/grant/award）；正式地介绍（某人）给别人（= introduce/acquaint someone with）；主持、介绍（= host）；展现、呈现；（医药）（病人）表现出...症状（常用过去式 presented with）
+
+  resent v. 愤恨、愤慨
+
+- propitious adj. 有利的、好机会的、吉祥的
+
+  propitiate v. 取悦（神灵）
+
+  ominous adj. 凶险的、不祥的
+
+  omen n. 预兆
+
+  felicitous adj. 恰当的、合适的、吉祥的
+
+- dextro- 前缀 在右边或向右的
+
+  dexterous/dextrous adj. （手）灵巧的
+
+  ambidextrous adj. 双手灵巧的
+
+  dextral adj. 在右边的、右手的 n. 右撇子
+
+- sinistral adj. 在左边的、左手的
+
+  sinister adj. 险恶的、邪恶的、阴险的
+
+- adversity n. 困难、不幸、逆境
+
+  diversity n. 多样性
+
+  perversity n. 反常、矛盾性、故意违背常理的行为
+
+  university n. 大学
+
+- spirit n. 精神、灵魂；品格；烈性蒸馏酒 v. 快速秘密地传递
+
+  sprit n. （帆船）一根小桅杆
+
+  sprite n. 精灵、仙女；计算机图形；红色闪光（雷电中）；雪碧
+
+  spit v. 吐口水；爆出火星或油脂并噼啪作响；下小雨 n. 唾液；吐口水的行为 n. 烤肉钎子；伸入海中的狭窄陆地点 v. 串肉 n. 一层土地（深度等于铲面）
+
+  spite n. 恶意 v. 故意伤害、冒犯（某人） in spite of sth. 尽管 in spite of sb. 不由自主（oneself）、不由人
+
+- dazzle v. 眩目、（强光）暂时性致盲（一个人） n. 眩目的光亮（a dazzle of）
+
+  drizzle n. 毛毛雨、细雨 v. 下毛毛雨
+
+  fizzle v. 发出微弱的嘶嘶声 n. 微弱的嘶嘶声
+
+  frizzle v. 炸或烤（带着滋滋声）；使头发紧密卷曲 n. 油炸的声音；头发紧密卷曲
+
+  grizzle adj. 斑白、（头发或皮毛）深色、白色混杂 n. 斑白的头发
+
+  guzzle v. 贪婪地吃、喝
+
+  mizzle （方言） n. 小雨、细雨 v. 下小雨
+
+  muzzle n. 动物面部突出的部分，包括口、鼻，如马或狗；枪口 v. （给动物）戴口套
+
+  nozzle n. 喷嘴
+
+  nuzzle v. 用鼻子和嘴巴轻轻地推或摩擦、轻嗅
+
+  pizzle n. 动物阴茎，尤指牛鞭
+
+  puzzle v. 使困惑；解迷游戏
+
+  sizzle v. （食物煎炸时）发出滋滋声 n. 滋滋声
+
+  sozzle v. 清洗（用泼水或浸泡的方式）；使喝醉
+
+  swizzle n. 混合酒（通常是朗姆和金酒调制） v. 搅拌
+
+- hospital n. 医院
+
+  hospitality n. 接待、热情好客
+
+  hospitality industry 酒店业
+
+  hotel n. 酒店；H 的代码字，用于无线电
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1651,6 +1881,10 @@
   enormous adj. （尺寸、数量、范围）很大的
 
   huge adj. 极大的
+
+  tremendous adj. 巨大的（数量、规模、强度）
+
+  monumental adj. 巨大的（重要性、程度、或尺寸）
 
   giant n. 巨人；超大超亮的恒星 adj. 巨大的
 
@@ -1762,15 +1996,17 @@
 
 - 表“困惑”
 
-  v. n. puzzle
+  puzzle v. 使困惑、疑惑 n. 解迷游戏
 
-  v. confuse
+  confuse v. 使困惑
 
-  v. perplex
+  perplex v. 使困惑
 
-  v. bewilder
+  bewilder v. 使困惑
 
-  v. confound
+  confound v. （超出预期的）惊讶或困惑；混淆、混合
+
+  baffle v. 使困惑；限制或调节（流体或声音） n. 挡板（阻挡声音、气体或光）
 
 - 表“阻止”、“阻碍”词组 v. sb/sth from doing sth.
 
@@ -1803,6 +2039,12 @@
   curb/kerb n. 马路牙子；抑制、限制 v. 抑制、限制
 
   cramp n. 抽筋；G 型钳 v. 阻碍、限制；夹紧、固定；抽筋
+
+  stall n. 三面封闭的建筑，如小摊位、动物窝棚或兽栏、淋浴间、停车位、影院或教堂座位；发动机失速停止 v. （载具或发动机）停止、失速；受阻、停滞、搪塞、拖延；在兽栏中饲养（动物）
+
+  thwart v. 阻挠 n. 船梁（有时当作船上的座位）
+
+  preclude v. 阻止发生、使不可能
 
 - 表“处理”
 
@@ -2396,7 +2638,7 @@
 
 - 法律词汇相关
 
-  accuse v. 指责（不一定是法律上）
+  accuse v. 指责（不一定是法律上）、控诉
 
   charge v. 收费（商家 charge 消费者）；指控（法律上，不一定有罪）；委任、负责；充电；冲锋、攻击 n. 收费；指控；负责；装药（枪或炮）；冲锋、攻击
 
@@ -2684,6 +2926,22 @@
 
   hormone n. 荷尔蒙、激素
 
+  serum n. 血清；精华
+
+  retinol n. 视黄醇（重音在 re）
+
+  fetus n. 胎儿
+
+  womb n. 子宫
+
+  cerebrum n. 大脑
+
+  cerebral adj. 大脑的；卷舌的
+
+  cortex n. 皮层、大脑外层 （cerebral cortex 大脑皮层）
+
+  hemiplegia n. 偏瘫（paralysis of one side of the body）
+
 - “君主”相关
 
   reign v. 统治
@@ -2723,6 +2981,8 @@
   renown n. 名誉、声望（被很多人知道，褒义）
 
   reputation n. 名声（可能有好有坏）
+
+  cachet n. 名望、威望；特殊标记或印记；胶囊药剂
 
 - “神圣的”
 
@@ -2906,6 +3166,10 @@
 
 - “悲伤”、“悲哀”、“痛苦”、“折磨”、“不平”
 
+  keen adj. 高度发展的、敏锐的；（刀刃或刀尖）锋利的；热衷的（be keen on） v. 哀悼（keen over） n. 葬曲
+
+  lament n. 哀叹 v. 哀悼
+
   grieve v. 为...悲伤 grieve for sb./sth.
 
   grief n. 悲伤、悲痛
@@ -2938,7 +3202,7 @@
 
   chief n. 统制者、领导者 adj. 最重要的
 
-  key n. 钥匙；（键盘）按键；关键；（音乐）基调、调；低洼的岛屿 adj. 关键的、非常重要的 v. 按键输入；固定；使（表面）粗糙
+  predominant adj. 主要的、占主导地位的
 
   prime adj. 首要的、主要的；最好的、极好的；质数的 n. 最好的年华；质数；单引号(') v. 使（某人）准备好（通常以给相关信息的方式）
 
@@ -2948,11 +3212,29 @@
 
   foremost adj. 最重要的、首要的 adv. 首先地（= in the first place）
 
-  predominant adj. 主要的、占主导地位的
+  staple n. 钉书钉；主食；羊毛棉花长度（long-staple 长绒 short-staple 短绒）；贸易中心 v. 用（钉书针）钉；筛选、分类（羊毛） adj. 主要的、重要的（消费相关）（staple food 主要食物）
+
+- “重要的”
+
+  significant adj. 值得关注的、重大的；有特殊意义的、重要的；
+
+  key n. 钥匙；（键盘）按键；关键；（音乐）基调、调；低洼的岛屿 adj. 关键的、非常重要的 v. 按键输入；固定；使（表面）粗糙
+
+  pivotal adj. 关键的、重要的
+
+  vital adj. 必不可少的、重要的；充满活力的；致命的（= fatal） n. 重要器官（如生殖器）
+
+  crucial adj. 至关重要的、关键的
+
+  necessary adj. 必要的；必然的、不可避免的（= inevitable/unavoidable/inescapable） n. （生活）必需品
+
+  essential adj. 必要的、重要的；（疾病）原发性的 n. 必需品、必要的事情
+
+  indispensable adj. 必不可少的
+
+  invaluable adj. 非常有用的、必不可少的、宝贵的、无价的
 
   paramount adj. 最重要的、至高的
-
-  staple n. 钉书钉；主食；羊毛棉花长度（long-staple 长绒 short-staple 短绒）；贸易中心 v. 用（钉书针）钉；筛选、分类（羊毛） adj. 主要的、重要的（消费相关）（staple food 主要食物）
 
 - “厕所”
 
@@ -2967,6 +3249,10 @@
   confiscate v. 没收、征收
 
   impound v. 扣押；关在围栏中；（水坝）挡水、蓄水
+
+  detain v. 扣留、阻止
+
+  distrain v. （法律）扣留（资产，以获得租金或欠款的支付）
 
 - “走私”
 
@@ -3007,6 +3293,68 @@
   moth n. 蛾子
 
   termite n. 白蚁
+
+- “存放”
+
+  deposit n. 存款；预付款、订金、（分期付款的）首付；沉淀物、沉积物；放置 v. （粗鲁地）放置；存放、委托保管
+
+  stow v. （仔细且整齐地）存放（在特定地方）
+
+  store n. 商店；存储的量、一堆（量词，a store of sth.） v. 存储、存放
+
+  stash v. 存放（安全、秘密地） n. （秘密的）存放的量、一堆（量词，a stash of sth.）；胡子（指 mustache）
+
+  cache n. （同类型东西的）存储、集合（以隐藏或难以获得的方式）；（计算机）缓存 v. 储存（以隐藏的方式或以便后续使用）；（计算机）缓存（数据）
+
+- “食物”相关
+
+  biscuit n. 饼干
+
+  dessert n. 甜点
+
+  doughnut/dounut n. 甜甜圈
+
+  gravy n. 肉汤
+
+  granola n. 烤麦片
+
+  granola bar n. 燕麦棒
+
+  nut n. 坚果
+
+  oat n. 燕麦
+
+  pretzel n. 椒盐脆饼
+
+  sausage n. 香肠
+
+  syrup n. 糖浆
+
+  shake n. 摇出来的饮料
+
+  milkshake n. 奶昔
+
+  milktea n. 奶茶
+
+  smoothie n. 思慕西
+
+- “逆时针地”
+
+  adv. anticlockwise
+
+  adv. widdershins （卢森堡语）
+
+- “加强”
+
+  consolidate v. 加强；集成、聚合
+
+  strengthen v. 加强、增强
+
+  reinforce v. 加强
+
+  underpin v. 支撑、加强
+
+  bolster n. 靠枕（放在下面用于支撑的大枕头）；重型凿子 v. 支撑、加强
 
 ## Antonyms
 
