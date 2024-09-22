@@ -884,6 +884,8 @@
 
   cramp n. 抽筋；G 型钳 v. 阻碍、限制；夹紧、固定；抽筋
 
+  cripple v. 破坏、削弱；导致变成残疾 n. 在某方面有严重限制的人 an emotional cripple 情感障碍者
+
   scramble v. 爬行；紧急起飞；使混乱 n. 艰难爬上、翻过；混乱
 
   scrap n. 一小片、一点（通常是剩余的）；废金属、废品；争执 v. 废弃、报废；争吵
@@ -1834,6 +1836,30 @@
 
   hotel n. 酒店；H 的代码字，用于无线电
 
+- verse n. 诗；（组合词）（特定的）社会领域
+
+  adverse adj. 不利的、有害的
+
+  converse v. 进行对话、交谈 n. 相反的情况、事物 adj. 相反的
+
+  diverse adj. 多种多样的、非常不同的；多元化的
+
+  inverse adj. 对立面的、相反的 n. 对立面、相反的事物
+
+  multiverse n. 多元宇宙
+
+  obverse n. 硬币的头像面；事实的对立面 adj. 硬币头像面的；对立面的；（植物）尖端阔大、底端窄的
+
+  perverse adj. 反常的
+
+  reverse v. 后退、倒车 adj. 反向的、相反的 n. 倒退、颠倒；相反；逆转、挫败；背面
+
+  traverse v. 穿过（travel across/over）；横穿；（法律）否认指控 n. 穿越；横梁；大枪的横移机构 adj. 通过窗帘杆滑动开关窗帘的
+
+  transverse adj. 横穿的
+
+  universe n. 宇宙
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
@@ -1976,7 +2002,7 @@
 
   relating to
 
-  as for/to
+  as for/to/of
 
   apropos
 

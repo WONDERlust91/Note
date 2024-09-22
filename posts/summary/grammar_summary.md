@@ -470,33 +470,9 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
 ### 非谓语动词
 
-1. 非谓语动词也是动词，但凡是动词你就要去想谁发出的动词
+非谓语动词，本质上一般是作定语，例如最常见的英语句型：主语 + 定语（形容词、定语从句、同位语、介词短语、非谓语） + 谓语 + 宾语.
 
-   - 没有逗号，动词发出者为前面的名词
-
-   I like this book making me happy
-
-   - 有逗号的，需要根据上下文判断谁发出的动词，可能是前一句的主语、宾语或整个句子。
-
-     I like to use computers, bought by my dad. 宾语
-
-     I like to read books, writing some notes. 主语
-
-     I like this book, making me happy. 宾语
-
-     I like to do exercises, making me happy. 整句
-
-     Looking from a broad perspective, we can see a trend. 整句
-
-2. 只有在这句话已经有了谓语的情况下，才会出现非谓语
-
-#### 非谓语动词句型
-
-1. 非谓语 + 宾语, 主语 + 谓语 + 宾语.
-
-   Reading this book, my teacher is happy.
-
-2. 主语 + 谓语 + 宾语, 非谓语 + 宾语.
+1. 后置非谓语：主语 + 谓语 + 宾语, 非谓语 + 宾语.
 
    There are many spectators watching the show, meaning/suggesting that Chinese cultures are becoming more and more popular.
 
@@ -504,9 +480,53 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
    meaning/suggesting that 非谓语 + 宾语从句
 
-3. 主语, 定语（非谓语）, 谓语 + 宾语.
+   1. 必须快速反应出只有在这句话已经有了谓语（主谓宾）的情况下，才会出现非谓语
+
+   2. 非谓语动词也是动词，但凡是动词你就要去想谁发出的动词
+
+      - 没有逗号，动词发出者通常为前面的名词
+
+        I like this book making me happy
+
+        例外：主句谓语是不及物动词，可能由主句主语或整个主句发出。（这种情况较少见）
+
+        This is happening making us happy.
+
+      - 有逗号的，需要根据上下文判断谁发出的动词，可能是前一句的主语、宾语或整个句子。
+
+        My teacher in this school will do a presentation, involving some topics. 宾语 presentation 发出 involving
+
+        My teacher in this school will do a presentation, feeling happy. 主语 teacher 发出 feeling
+
+        My teacher in this school will do a presentation, making us proud. 整个主句发出 making
+
+        I like to use computers, bought by my dad. 宾语
+
+        I like to read books, writing some notes. 主语
+
+        I like this book, making me happy. 宾语
+
+        I like to do exercises, making me happy. 整句
+
+2. 前置非谓语：非谓语(Doing/Done) + 宾语, 主语 + 谓语 + 宾语.
+
+   1. 前置非谓语通常由主句的主语发出
+
+      Reading this book, my teacher is happy.
+
+   2. 前置非谓语通常分句与主句有顺序关系，分句先发生，主句后发生
+
+      Having scored 99, he is very happy now.
+
+      Looking from a broad perspective, we can see a trend. 整句
+
+3. 句中非谓语：主语, 定语（非谓语）, 谓语 + 宾语.
+
+   这种句型通常只是修饰主语，没有明显顺序关系
 
    My teacher, almost overwhelmed by her projects, will have some time to do something.
+
+   This player, liked by us, will come to my school today.
 
 4. 非谓语动词不及物时，上面 3 个句型中紧跟着非谓语动词的宾语都不存在，可能是一个状语。
 
@@ -526,7 +546,13 @@ If/when/where/although/though/while/because/as(= when/while/because)
 
 ### 动名词做主语
 
-v.ing/(Ving + 宾语) + 谓语（**第三人称单数**） + 宾语
+v.ing/(v.ing + 宾语) + 谓语（**第三人称单数**） + 宾语
+
+Understanding sth. is good.
+
+Understanding that 句子 is good.
+
+注意谓语左右两边意思上要能说通
 
 Thinking that you are good is interesting.
 
@@ -554,9 +580,11 @@ Producing computers from China is interesting.
 
 - It is adj. for sb. to do sth.
 
+  注意 adj. 能不能形容这个 to do sth.
+
   It is portable for me to use my laptop.
 
-  这句话是错误的，portable 可以用于形容 laptop，但不能用于形容 use my laptop。
+  这句话是错误的，portable 可以用于形容 laptop 这个东西，但不能用于形容 use my laptop 这个行为。
 
   应改为 It is convenient for me to use my laptop.
 
@@ -570,9 +598,15 @@ Producing computers from China is interesting.
 
   It is important that we should read books.
 
-- 感官动词（look/sound/taste/smell/feel） = 系动词（seem/become/stay/grow） = be 动词，因此 It + 感官动词 也大概率是形式主语
+  It is useful for me that I can read books.
 
-  It seems/sounds that ...
+- 感官动词（look/sound/taste/smell/feel） = 系动词（seem/become/stay/grow/remain） = be 动词，因此 It + 感官动词 也大概率是形式主语
+
+  It seems/sounds/remains that...
+
+  It seems as if you OK.
+
+  It is believed/said that...
 
 - 不是所有 it 开头的句子都是形式主语
 
@@ -580,11 +614,11 @@ Producing computers from China is interesting.
 
 ### 形式宾语
 
-make/leave A(n.) B(v./adj./prep./n.)
+make/leave/render/have A(n.) B(v./adj./prep./n.)
 
 - leave + 地点 表示离开某地
 
-  其他情况 leave = make 表示留下或使得
+  其他情况 leave = make = render 表示留下或使得
 
   当 A 后面有个很长的定语从句时，可能会把 B 放在 A 前
 
@@ -592,17 +626,19 @@ make/leave A(n.) B(v./adj./prep./n.)
 
   This book leave happy you who are from China and playing soccer in your school.
 
-I can make you play soccer.
+  I can make you play soccer.
 
-I can make you important.
+  I can make you important.
 
-I can make you in school.
+  I can make you in school.
 
-I can make you a player.
+  I can make you a player.
 
-I want to make playing soccer in our nation become more and more popular.
+  I want to make playing soccer in our nation become more and more popular.
 
-I want to make it become more and more popular to play soccer in our nation.
+  I want to make it become more and more popular for us to play soccer in our nation.
+
+  I want to make it possible for me to do sth.
 
 ### 同位语和同位语从句
 
@@ -620,17 +656,47 @@ Iphone, the essential in our life, is an electronic device. 核心名词 the ess
 
 #### 同位语从句和定语从句
 
-同位语从句（内容：解释说明名词本身，只能用 that）
+同位语从句（内容：解释说明名词本身的内容，只能用 that，所解释的名词，以抽象名词占绝大多数，通常是“有内容”的词，that 只是引导词，后面通常跟完整主谓宾）
 
-There is an idea that we could go to school.
+定语从句（怎么样：修饰名词，除 that 外还可能用 which 或 which 带介词或副词 where 等，that 或 which 等引导词指代从句中的主语或宾语，后面通常不是完整句子）
+
+我有一个问题，这个问题很难。（定语从句）
+
+我有一个问题，是你多大了。（同位语从句）
+
+I like this idea that you let me play soccer. 我非常喜欢你这个让我踢足球的想法。（同位语从句）
+
+I like this idea that lets me play soccer. 我非常喜欢你这个想法，这个想法让我走上了踢球的道路。（定语从句）
+
+There is an idea that we could go to school. 同位语从句
+
+There is an idea that is good. 定语从句
 
 I like this piece of news that is fresh. 定语从句
 
-定语从句（怎么样：修饰名词，除 that 外还可能用 which 或 which 带介词或副词 where 等）
-
-There is an idea that is good.
-
 I like this piece of news that I can read books. 同位语从句
+
+#### 同位语从句语法
+
+1. 同位语从句用 that 引导，且 that 之后是完整句子
+
+   I like this fact/idea/opinion/news/story that ...
+
+2. 用 whether/why 引导（根据意思判断是否为同位语从句）
+
+   There is a question why we are going to this school. （同位语从句）
+
+   There is a question why you get confused. （定语从句 why = for which）
+
+3. way 特殊句型
+
+   I like the way (in which) you play soccer. in which 不省略时是定语从句，省略时当作同位语从句。
+
+4. 隔断开的同位语从句
+
+   The thought came to her that maybe she had left the door open when she left home.
+
+   came to her 是插入语，修饰 thought，that 是 thought 的同位语信号词，而不是 her 的
 
 #### 常见同位语从句信号词
 
@@ -674,23 +740,43 @@ I like this idea/opinion/news/story/fact that
 
 ### There be
 
-翻译为有，本质是 there be + n. 整体是一个完整的句子
+翻译为有，本质是 there be + n. 整体已经是一个完整的句子。后面不能再加逗号加另外一个句子，除非有连词。
 
-There be + n. + 定语（adj./定语从句/同位语从句/非谓语动词/介词短语）
+There be + n. + 定语（adj.、定语从句、同位语从句、非谓语动词、介词短语）
 
-There is no 表示没有，不可用 not
+造句：
 
-There might be 表可能
+1. there be 表示“有”，也可以表示抽象概念
 
-There will be/is going to be 表将来
+   This book is important.
 
-There exist n.
+   There is importance in this book.
 
-There lies n.
+   Obese people experience discrimination in many parts of the world.
 
-There happens to be 碰巧有
+   There is much discrimination for obese people in many parts of the world.
 
-There remains to be 依旧有
+2. There is no 表示没有，不可用 not
+
+3. There might be 表可能
+
+4. There will be/is going to be 表将来
+
+5. be 可替换为 系动词、感观动词
+
+   There seems discrimination.
+
+   There sounds a laughter.
+
+   There becomes...
+
+   There exist n.
+
+   There lies n.
+
+   There happens to be 碰巧有
+
+   There remains to be 依旧有
 
 #### 例句
 
@@ -718,6 +804,8 @@ I think that I like you. There is an idea from me that I like you.
 
 1. so adj./adv. that 完整句子
 
+   so 是 adv. 修饰动词、形容词、副词
+
    I am so smart that I know all of this.
 
    I do sth so smart that 这是错误的，smart 不是形容 sth，而是用来修饰 do，所以应该使用副词
@@ -738,15 +826,17 @@ I think that I like you. There is an idea from me that I like you.
 
 2. such n. that 完整句子
 
+   such 是 adj. 修饰名词
+
    You are such a good boy that you can do this.
 
-   This is such a perfect book that I want to read it.
+   This is such a perfect book that is useful that I want to read it.
 
    I am happy today because I earned such a great bag today that I am thrilled.
 
    It is important to have such a great book that I can read it everyday.
 
-3. so that 作连词，翻译为以至于
+3. so that 作连词 conj.，翻译为以至于，表递进
 
    句子 1, so that 句子 2
 
@@ -754,21 +844,71 @@ I think that I like you. There is an idea from me that I like you.
 
 ### 强调句
 
-- It is ... that ...
+什么时候用强调句？
 
-  删除 It is 与 that 三个单词，仍然是完整句子。
+强调句不能单独使用，一定要先有一个范围，高光这个范围内的某个东西时，才用强调句，即需要背景句。
 
-  It is my school that has this computer.
+There are hundreds of schools in my city. It is my school that has this computer.
 
-  注意强调句不可单独直接使用，通常前面会有一句话提示相关背景。
+Among countless functions of music, it is music that can connect various people.
 
-  例如上面例句前可能会有这样一句话，There are many schools. 有很多的学校，但只有我的学校有这样的电脑。
+1. It is ... that(when/why/who) ...
 
-  It is when I was a kid that I could play soccer.
+   核心：当我们去掉 "It is" 和 "that"，剩下的部分合在一起依旧是完整句子。
 
-- Do + 动词原形
+   因此强调句甚至可以强调状语从句、介词短语、动名词做主语、主语从句
 
-  I did like this book.
+   - 介词短语/(连词 + 分句), 主句
+
+     强调后：
+
+     It is 介词短语/(连词 + 分句) that 主句
+
+     It is in my school that I want to learn things.
+
+     It is if you come to my school that I will do this.
+
+     It is when you are happy that I want to eat a pear.
+
+     It is when I was a kid that I could play soccer.
+
+   - 动名词/主语从句 + 谓语 + 宾语
+
+     强调后：
+
+     It is 动名词/主语从句 that 谓语 + 宾语
+
+     It is playing games that is a good way of relaxing.
+
+     It is what you read everyday that is useful.
+
+   例句：
+
+   1. 电动车可以保护环境
+
+      EVs can help improve our environment.
+
+      Among many kinds vehicles, it is EVs that can help improve our environment.
+
+   2. There are countless useful books in our library.
+
+      强调在图书馆中才有这么多书
+
+      On our campus, there are many facilities and places. It is in our library that there are countless useful books.
+
+      强调书有用
+
+      Among countless valuable things in our library, it is the books that are the most useful.
+
+- Do + 动词原形（强调动词的动作）
+
+  do 受时态影响
+
+  例句：
+
+  I do like this book. 我确实喜欢这本书。
+
+  I did like this book. 我过去确实喜欢这本书。
 
 ### 倒装句
 
