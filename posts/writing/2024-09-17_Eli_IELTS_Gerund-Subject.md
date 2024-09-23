@@ -82,7 +82,7 @@ Understanding that 句子 is good.
 
    arise vi. 出现（不及物）
 
-   be bound to adj. 一定会 = have to/must
+   be bound to 一定会 = have to/must
 
    积累： Many problems are bound to arise.
 

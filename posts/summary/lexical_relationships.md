@@ -1860,6 +1860,20 @@
 
   universe n. 宇宙
 
+- amber n. 琥珀、琥珀色 adj. 琥珀色的
+
+  ember n. 余烬
+
+  ample adj. 充足的
+
+  amplify v. 放大
+
+  ampere n. 安培（电流基本单位）
+
+  emperor n. 皇帝
+
+  empire n. 帝国
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别
