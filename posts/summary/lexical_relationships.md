@@ -228,6 +228,8 @@
 
 - impact (on) n. v. 强制接触；影响（引申于物体表面强制接触的意思）
 
+  impart v. 传授、传达
+
   compact adj. 紧密的 v. 压实；达成协议 n. 化妆粉盒（有镜子和粉扑）；紧凑型、袖珍款；压塑（冶金）；协议、合同
 
   implication n. 暗指、暗示；影响
@@ -708,7 +710,7 @@
 
   depart v. 离开
 
-  impart v. 传授；赐予
+  impart v. 传授、传达
 
   parity n. 平等、相同、对等（尤其在地位或报酬上）；（数学）奇偶性；（医药）生育子女
 
@@ -1125,6 +1127,8 @@
 - sensible adj. 明智的、聪明的
 
   sensitive adj. 敏感的
+
+  impressionable adj. 敏感的
 
 - creep v. 蠕行、蹑手蹑脚地走；植物沿地面生长；在压力下逐渐变形 n. 缓慢移动（尤指以稳定但不可察觉的速度）
 
@@ -2973,6 +2977,16 @@
   fetus n. 胎儿
 
   womb n. 子宫
+
+  puberty n. 青春期
+
+  period n. 经期
+
+  menstrual adj. 月经的
+
+  pregnancy n. 怀孕
+
+  menopause n. 更年期
 
   cerebrum n. 大脑
 
